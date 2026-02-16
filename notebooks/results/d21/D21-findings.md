@@ -2,7 +2,7 @@
 
 > **Project:** FractalRecall — Hierarchical context-aware embedding retrieval
 > **Notebook:** D21-baseline.ipynb
-> **Run Date:** 2026-02-15
+> **Run Date:** 2026-02-16
 > **Hardware:** Google Colab — A100 GPU, High-RAM
 > **Metrics:** Precision@5, Recall@10, NDCG@10, MRR
 
@@ -57,9 +57,9 @@ Hybrid Semantic + Fixed-Window (sourced from R-02):
 | ----------- | ----- | ----------------------------------------------------------- |
 | SINGLE_HOP  | 11    | Direct fact retrieval from one document                     |
 | MULTI_HOP   | 8     | Requires synthesizing information across multiple documents |
-| AUTHORITY   | 6     | Hierarchical canon/authority layer questions                |
+| AUTHORITY   | 5     | Hierarchical canon/authority layer questions                |
 | TEMPORAL    | 6     | Time-dependent or chronological questions                   |
-| EXPLORATORY | 5     | Broad, open-ended survey questions                          |
+| EXPLORATORY | 6     | Broad, open-ended survey questions                          |
 
 ---
 
@@ -91,60 +91,60 @@ bge-m3 is ~3.5× faster than v2-moe, despite producing 1024-dim embeddings (vs. 
 
 | Model                       | Precision@5 | Recall@10  | NDCG@10    | MRR        |
 | --------------------------- | ----------- | ---------- | ---------- | ---------- |
-| **nomic-embed-text-v2-moe** | **0.4611**  | 0.7083     | 0.6834     | 0.8166     |
-| **BAAI/bge-m3**             | 0.4171      | **0.7454** | 0.6973     | 0.7917     |
-| **nomic-embed-text-v1.5**   | 0.3894      | 0.7384     | **0.7315** | **0.8611** |
+| **nomic-embed-text-v2-moe** | **0.4171**  | 0.6736     | 0.6711     | 0.8165     |
+| **BAAI/bge-m3**             | 0.3653      | 0.7083     | 0.6802     | 0.7926     |
+| **nomic-embed-text-v1.5**   | 0.3829      | **0.7199** | **0.7062** | **0.8452** |
 
 **Best model per metric:**
 
-- **Precision@5:** v2-moe (0.4611) — best at surfacing relevant documents in the top 5
-- **Recall@10:** bge-m3 (0.7454) — best coverage in the top 10
-- **NDCG@10:** v1.5 (0.7315) — best ranking quality
-- **MRR:** v1.5 (0.8611) — fastest time-to-first-relevant-result
+- **Precision@5:** v2-moe (0.4171) — best at surfacing relevant documents in the top 5
+- **Recall@10:** v1.5 (0.7199) — best coverage in the top 10
+- **NDCG@10:** v1.5 (0.7062) — best ranking quality
+- **MRR:** v1.5 (0.8452) — fastest time-to-first-relevant-result
 
-No single model dominates across all metrics.
+No single model dominates across all metrics, though v1.5 leads on 3 of 4 metrics.
 
 ### 3.4 Per-Query-Type Breakdown
 
 #### Precision@5
 
-| Query Type  | bge-m3    | v1.5      | v2-moe    |
-| ----------- | --------- | --------- | --------- |
-| AUTHORITY   | 0.450     | 0.350     | **0.553** |
-| EXPLORATORY | 0.250     | **0.267** | 0.258     |
-| MULTI_HOP   | **0.650** | 0.556     | 0.640     |
-| SINGLE_HOP  | 0.355     | 0.365     | **0.446** |
-| TEMPORAL    | 0.361     | 0.367     | **0.378** |
+| Query Type  | bge-m3 | v1.5      | v2-moe    |
+| ----------- | ------ | --------- | --------- |
+| SINGLE_HOP  | 0.312  | 0.305     | **0.403** |
+| MULTI_HOP   | 0.594  | 0.619     | **0.627** |
+| AUTHORITY   | 0.400  | 0.397     | **0.433** |
+| TEMPORAL    | 0.278  | **0.350** | 0.350     |
+| EXPLORATORY | 0.217  | **0.233** | 0.217     |
 
 #### Recall@10
 
 | Query Type  | bge-m3    | v1.5      | v2-moe    |
 | ----------- | --------- | --------- | --------- |
+| SINGLE_HOP  | 0.606     | **0.652** | 0.652     |
+| MULTI_HOP   | **0.917** | 0.875     | 0.875     |
 | AUTHORITY   | 0.700     | 0.700     | **0.800** |
-| EXPLORATORY | **0.500** | 0.486     | 0.389     |
-| MULTI_HOP   | **0.917** | 0.875     | 0.833     |
-| SINGLE_HOP  | 0.682     | 0.697     | **0.727** |
-| TEMPORAL    | **0.917** | **0.917** | 0.750     |
+| TEMPORAL    | **0.917** | 0.917     | 0.667     |
+| EXPLORATORY | 0.417     | **0.458** | 0.347     |
 
 #### NDCG@10
 
-| Query Type  | bge-m3 | v1.5      | v2-moe    |
-| ----------- | ------ | --------- | --------- |
-| AUTHORITY   | 0.709  | 0.705     | **0.738** |
-| EXPLORATORY | 0.400  | **0.490** | 0.357     |
-| MULTI_HOP   | 0.894  | **0.898** | 0.859     |
-| SINGLE_HOP  | 0.706  | **0.736** | 0.727     |
-| TEMPORAL    | 0.706  | **0.767** | 0.650     |
+| Query Type  | bge-m3    | v1.5      | v2-moe    |
+| ----------- | --------- | --------- | --------- |
+| SINGLE_HOP  | 0.694     | 0.675     | **0.712** |
+| MULTI_HOP   | **0.895** | 0.892     | 0.895     |
+| AUTHORITY   | 0.691     | 0.686     | **0.743** |
+| TEMPORAL    | 0.675     | **0.779** | 0.595     |
+| EXPLORATORY | 0.365     | **0.459** | 0.314     |
 
 #### MRR
 
 | Query Type  | bge-m3    | v1.5      | v2-moe    |
 | ----------- | --------- | --------- | --------- |
-| AUTHORITY   | 0.800     | 0.800     | **0.822** |
-| EXPLORATORY | 0.528     | **0.750** | 0.557     |
+| SINGLE_HOP  | 0.864     | 0.803     | **0.909** |
 | MULTI_HOP   | **1.000** | **1.000** | **1.000** |
-| SINGLE_HOP  | 0.833     | **0.894** | 0.849     |
-| TEMPORAL    | 0.694     | **0.778** | 0.769     |
+| AUTHORITY   | 0.800     | 0.800     | **0.833** |
+| TEMPORAL    | 0.667     | **0.867** | 0.750     |
+| EXPLORATORY | 0.506     | **0.732** | 0.454     |
 
 ---
 
@@ -154,31 +154,31 @@ No single model dominates across all metrics.
 
 **nomic-embed-text-v2-moe** — The Precision Specialist
 
-- Highest Precision@5 overall (0.4611) and on 3/5 query types (AUTHORITY, SINGLE_HOP, TEMPORAL)
+- Highest Precision@5 overall (0.4171) and on 3/5 query types (SINGLE_HOP, MULTI_HOP, AUTHORITY)
 - Smaller 512-token context window forces tighter chunking, which appears to reduce noise in top results
-- Trade-off: lowest Recall@10 (0.7083) — the tight window may miss broader contextual signals
+- Trade-off: lowest Recall@10 (0.6736) — the tight window may miss broader contextual signals
 
 **nomic-embed-text-v1.5** — The All-Rounder
 
-- Best NDCG@10 (0.7315) and MRR (0.8611) — consistently ranks relevant results higher
-- Strongest on EXPLORATORY queries (NDCG 0.490, MRR 0.750) where broad understanding matters
-- Competitive Recall@10 (0.7384) but weakest Precision@5 (0.3894)
+- Best Recall@10 (0.7199), NDCG@10 (0.7062), and MRR (0.8452) — leads on 3 of 4 metrics
+- Strongest on EXPLORATORY queries (NDCG 0.459, MRR 0.732) where broad understanding matters
+- Strongest on TEMPORAL queries (NDCG 0.779, MRR 0.867)
 
-**BAAI/bge-m3** — The Coverage Champion
+**BAAI/bge-m3** — The Coverage Specialist
 
-- Highest Recall@10 (0.7454) — best at finding all relevant documents
+- Best MULTI_HOP Recall@10 (0.917) and tied for best TEMPORAL Recall@10 (0.917)
 - Fastest embedding throughput (543.7 chunks/sec) — practical for production pipelines
-- Weakest MRR (0.7917) — finds everything but doesn't always rank the best result first
+- Weakest MRR overall (0.7926) — finds relevant content but doesn't always rank the best result first
 
 ### 4.2 Query Type Patterns
 
-**MULTI_HOP queries perform best** across all models (NDCG 0.86–0.90, MRR 1.000). All three models achieve perfect MRR, meaning the first returned result is always relevant. These queries require information from multiple documents, and the embedding similarity between multi-document topics creates strong retrieval signals.
+**MULTI_HOP queries perform best** across all models (NDCG 0.89–0.90, MRR 1.000). All three models achieve perfect MRR, meaning the first returned result is always relevant. These queries require information from multiple documents, and the embedding similarity between multi-document topics creates strong retrieval signals.
 
-**EXPLORATORY queries are the weakest** across all models (Precision@5 ≈ 0.25). Broad, open-ended queries like "Survey of post-Glitch medical conditions" produce diffuse similarity signals that don't sharply distinguish relevant from tangential documents. This is the primary target for context enrichment in D-22/D-23.
+**EXPLORATORY queries are the weakest** across all models (Precision@5 ≈ 0.22). Broad, open-ended queries like "Survey of post-Glitch medical conditions" produce diffuse similarity signals that don't sharply distinguish relevant from tangential documents. This is the primary target for context enrichment in D-22/D-23.
 
-**TEMPORAL queries reveal model-specific differences.** bge-m3 and v1.5 both achieve 0.917 Recall@10, but v2-moe drops to 0.750 — its smaller context window may lose temporal phrases that provide ordering signals.
+**TEMPORAL queries reveal model-specific differences.** bge-m3 and v1.5 both achieve 0.917 Recall@10, but v2-moe drops to 0.667 — its smaller context window may lose temporal phrases that provide ordering signals. v1.5 dominates TEMPORAL NDCG (0.779 vs 0.675/0.595).
 
-**AUTHORITY queries favour v2-moe** (Precision@5 = 0.553 vs. 0.35–0.45). The tighter chunking appears to better isolate authority-layer signals, avoiding dilution by surrounding context.
+**AUTHORITY queries favour v2-moe** (Precision@5 = 0.433, NDCG = 0.743). The tighter chunking appears to better isolate authority-layer signals, avoiding dilution by surrounding context.
 
 ### 4.3 Chunking Observations
 
@@ -191,11 +191,11 @@ The average chunk size (134–136 tokens) is well below the target for all model
 1. **Primary enrichment target: EXPLORATORY queries.** With Precision@5 ≈ 0.25, there is significant headroom for improvement. Context prefixes that inject document-type and entity-identity signals should help the embedding model discriminate relevant survey-level documents.
 
 2. **Model selection for D-22:** v1.5 is the strongest candidate for enrichment experiments due to its:
-   - Best ranking quality (NDCG, MRR) — enrichment should amplify existing ranking strength
+   - Best ranking quality (NDCG 0.7062, MRR 0.8452) — enrichment should amplify existing ranking strength
+   - Best Recall@10 (0.7199) — already leads on coverage
    - 8,192-token context window — room for multi-layer prefixes without truncation
-   - Competitive recall — enrichment may narrow this gap with v2-moe's precision advantage
 
-3. **v2-moe's precision advantage warrants monitoring.** If enrichment closes the precision gap on v1.5, v2-moe's advantage disappears. If enrichment primarily improves recall and ranking, v2-moe may retain a niche for precision-critical deployments.
+3. **v2-moe's precision advantage warrants monitoring.** If enrichment closes the precision gap on v1.5 (0.3829 vs 0.4171), v2-moe's advantage disappears. If enrichment primarily improves recall and ranking, v2-moe may retain a niche for precision-critical deployments.
 
 4. **Minimum chunk size filter needed.** The 2-token minimum chunks provide no semantic signal and should be merged with adjacent chunks or dropped in future iterations.
 

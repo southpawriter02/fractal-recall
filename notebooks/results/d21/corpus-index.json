@@ -1,0 +1,484 @@
+{
+  "metadata": {
+    "total_documents": 77,
+    "total_words": 134476,
+    "type_distribution": {
+      "entity": 53,
+      "system": 11,
+      "faction": 4,
+      "term": 2,
+      "event": 6,
+      "document": 1
+    },
+    "authority_distribution": {
+      "L2-Diagnostic": 59,
+      "L3-Technical": 15,
+      "L1-Mythological": 3
+    },
+    "valid_queries": 36
+  },
+  "documents": [
+    {
+      "filename": "000-codex_echo-cant.md",
+      "word_count": 1835,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_harrow-sick.md",
+      "word_count": 1508,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_hela-caste-custodian.md",
+      "word_count": 1864,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_lure-lichen.md",
+      "word_count": 2072,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_mycelian-weaver.md",
+      "word_count": 2130,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_odin-protocol.md",
+      "word_count": 1953,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_scavenger-barons.md",
+      "word_count": 1447,
+      "type": "faction",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-codex_spell-lock.md",
+      "word_count": 1380,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-cultural_gutter-tangle.md",
+      "word_count": 2622,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "000-cultural_rangers-trail-reckoning.md",
+      "word_count": 4065,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-cultural_skaldic-year-naming.md",
+      "word_count": 2765,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-gazetteer_depth-sickness.md",
+      "word_count": 2083,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-gazetteer_gleipnir-containment-pens.md",
+      "word_count": 1937,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-gazetteer_loki-protocol-suppressed-warning.md",
+      "word_count": 1083,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-gazetteer_project-gungnir.md",
+      "word_count": 1126,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "000-resources_argentum-nexus-silver-cord.md",
+      "word_count": 3946,
+      "type": "entity",
+      "canon": "Draft 1 - Done"
+    },
+    {
+      "filename": "000-resources_comprehensive-glossary.md",
+      "word_count": 1576,
+      "type": "term",
+      "canon": "Not started"
+    },
+    {
+      "filename": "000-resources_dead-light-sanctuary-chain.md",
+      "word_count": 1695,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "000-resources_gazetteer-of-asgard.md",
+      "word_count": 2078,
+      "type": "entity",
+      "canon": "Superseded"
+    },
+    {
+      "filename": "000-resources_grey-towers-scriptorium.md",
+      "word_count": 3634,
+      "type": "entity",
+      "canon": "Draft 1 - Done"
+    },
+    {
+      "filename": "000-resources_meta-layer1-style-guide.md",
+      "word_count": 1193,
+      "type": "term",
+      "canon": "Final Draft - Done"
+    },
+    {
+      "filename": "000-resources_scriptorium-record-manual.md",
+      "word_count": 3168,
+      "type": "entity",
+      "canon": "Draft 1 - Done"
+    },
+    {
+      "filename": "000-resources_tri-council.md",
+      "word_count": 1290,
+      "type": "entity",
+      "canon": "Outline 2 - Done"
+    },
+    {
+      "filename": "000-resources_wall-and-the-spear.md",
+      "word_count": 3769,
+      "type": "entity",
+      "canon": "Draft 2 - Done"
+    },
+    {
+      "filename": "000-resources_witness-mark-protocols.md",
+      "word_count": 2090,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "000-wbdc_blight-weaver-interdiction.md",
+      "word_count": 1445,
+      "type": "event",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "000-wbdc_iron-bane-reconnaissance.md",
+      "word_count": 994,
+      "type": "event",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "codex_chrome-lurker.md",
+      "word_count": 5437,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db02-wb_gorge-maws-population-dossier.md",
+      "word_count": 7639,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db02-wb_medical-phenomena-entry.md",
+      "word_count": 914,
+      "type": "entity",
+      "canon": "Draft 1 - Done"
+    },
+    {
+      "filename": "db02-wb_scavenger-barons-assembled-entry.md",
+      "word_count": 1109,
+      "type": "faction",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db02-wb_silent-folk-assembled-entry.md",
+      "word_count": 1159,
+      "type": "faction",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db02-wb_skrap-troll-assembled-entry.md",
+      "word_count": 1091,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db02-wb_svin-fylking-assembled-entry.md",
+      "word_count": 1824,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db02-wb_void-marked-assembled-entry.md",
+      "word_count": 1070,
+      "type": "entity",
+      "canon": "Draft 1 - Done"
+    },
+    {
+      "filename": "db02-wb_warden-host-assembled-entry.md",
+      "word_count": 1144,
+      "type": "faction",
+      "canon": "Draft 1 - Done"
+    },
+    {
+      "filename": "db02-wb_weir-bone-assembled-entry.md",
+      "word_count": 993,
+      "type": "entity",
+      "canon": "Final Draft - Done"
+    },
+    {
+      "filename": "db03-dc_agricultural-devastation.md",
+      "word_count": 1813,
+      "type": "event",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_archive-cataloging-standards.md",
+      "word_count": 1509,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_ballad-of-the-broken-gate.md",
+      "word_count": 721,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_clockwork-synchronization.md",
+      "word_count": 1031,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_combine-month-names.md",
+      "word_count": 1781,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_contract-dispute-case-study.md",
+      "word_count": 1294,
+      "type": "event",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_crusade-mobilization.md",
+      "word_count": 730,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_crusader-field-training.md",
+      "word_count": 1254,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_dvergr-guild-chronicle.md",
+      "word_count": 1516,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_echo-caller-field-observation.md",
+      "word_count": 263,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_ginnungagap-coolant-chasm.md",
+      "word_count": 534,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_god-sleeper-operational-doctrine.md",
+      "word_count": 1074,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_gutter-skald-info-exchange.md",
+      "word_count": 604,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_historical-theological-survey.md",
+      "word_count": 1153,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db03-dc_inter-generational-knowledge-transfer.md",
+      "word_count": 1525,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_iron-bane-theological-analysis.md",
+      "word_count": 878,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_iron-banes-liturgical-calendar.md",
+      "word_count": 1607,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_jarl-authority-exercise.md",
+      "word_count": 1270,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_jarn-madr-behavioral-study.md",
+      "word_count": 1776,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_jotun-reader-chronology.md",
+      "word_count": 1074,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_jotunheim-swarm-density.md",
+      "word_count": 1923,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_loki-archive-security-audit.md",
+      "word_count": 2390,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_loki-protocol-warning.md",
+      "word_count": 1232,
+      "type": "event",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_medical-causality-research.md",
+      "word_count": 1099,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db03-dc_novice-training-documentation.md",
+      "word_count": 890,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_perfect-silent-cage.md",
+      "word_count": 939,
+      "type": "event",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_quiet-nod-protocol.md",
+      "word_count": 1301,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_rule-of-two-threads.md",
+      "word_count": 959,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_salvage-operations-manual.md",
+      "word_count": 1205,
+      "type": "entity",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db03-dc_sanctuary-establishment-record.md",
+      "word_count": 1393,
+      "type": "document",
+      "canon": "Draft"
+    },
+    {
+      "filename": "db03-dc_sanctuary-establishment.md",
+      "word_count": 841,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "db03-dc_waystation-cache-inventory.md",
+      "word_count": 378,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_aether-weave-os.md",
+      "word_count": 1982,
+      "type": "system",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_combine-reckoning.md",
+      "word_count": 1548,
+      "type": "system",
+      "canon": "Draft"
+    },
+    {
+      "filename": "standalone_dagaz-concordance.md",
+      "word_count": 723,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_daily-life-midgard.md",
+      "word_count": 2393,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_fimbul-cant.md",
+      "word_count": 5802,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_gebo-concordance.md",
+      "word_count": 576,
+      "type": "entity",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_nine-tiers-architecture.md",
+      "word_count": 2237,
+      "type": "system",
+      "canon": "Canonical"
+    },
+    {
+      "filename": "standalone_runic-interface.md",
+      "word_count": 2130,
+      "type": "entity",
+      "canon": "Canonical"
+    }
+  ]
+}

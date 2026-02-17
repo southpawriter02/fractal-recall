@@ -1,0 +1,51 @@
+D-24 GO/NO-GO DECISION REPORT
+================================================================================
+Date: 2026-02-17 09:51
+Bonferroni-adjusted α: 0.0167
+
+raw: 1/7 criteria passed
+  [PASS] execution
+  [FAIL] improve_d21
+  [FAIL] improve_d22
+  [N/A] significance
+  [FAIL] marginal_value
+  [N/A] no_catastrophic
+  [N/A] auth_temp_benefit
+
+domain_entity: 1/7 criteria passed
+  [PASS] execution
+  [FAIL] improve_d21
+  [FAIL] improve_d22
+  [N/A] significance
+  [FAIL] marginal_value
+  [N/A] no_catastrophic
+  [N/A] auth_temp_benefit
+
+de_authority: 1/7 criteria passed
+  [PASS] execution
+  [FAIL] improve_d21
+  [FAIL] improve_d22
+  [N/A] significance
+  [FAIL] marginal_value
+  [N/A] no_catastrophic
+  [N/A] auth_temp_benefit
+
+de_section: 1/7 criteria passed
+  [PASS] execution
+  [FAIL] improve_d21
+  [FAIL] improve_d22
+  [N/A] significance
+  [FAIL] marginal_value
+  [N/A] no_catastrophic
+  [N/A] auth_temp_benefit
+
+de_relationships: 1/7 criteria passed
+  [PASS] execution
+  [FAIL] improve_d21
+  [FAIL] improve_d22
+  [N/A] significance
+  [FAIL] marginal_value
+  [N/A] no_catastrophic
+  [N/A] auth_temp_benefit
+
+BEST CONFIG: raw

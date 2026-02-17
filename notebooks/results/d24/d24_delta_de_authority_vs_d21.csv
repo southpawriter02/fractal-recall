@@ -1,0 +1,1 @@
+config,query_id,query_type_d24,precision@5_d24,recall@10_d24,ndcg@10_d24,mrr_d24,model,query_type_d21,precision@5_d21,recall@10_d21,ndcg@10_d21,mrr_d21,delta_precision@5,delta_recall@10,delta_ndcg@10,delta_mrr

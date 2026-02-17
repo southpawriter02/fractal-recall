@@ -1,0 +1,568 @@
+chunk_id,doc_filename,section_heading,tokens_raw,tokens_enriched,Corpus,Domain,Entity,Authority,Relationships,Section
+000-codex_echo-cant.md#chunk_001,000-codex_echo-cant.md,# Echo-Cant,32,106,6,18,6,10,20,11.0
+000-codex_echo-cant.md#chunk_002,000-codex_echo-cant.md,### 1. Identification and context,169,247,6,18,6,10,20,15.0
+000-codex_echo-cant.md#chunk_003,000-codex_echo-cant.md,### 2. Mechanism of action (Layer 2 diagnostic),371,453,6,18,6,10,20,19.0
+000-codex_echo-cant.md#chunk_004,000-codex_echo-cant.md,### 3. Field Card — Echo-dense chamber protocols,591,673,6,18,6,10,20,19.0
+000-codex_echo-cant.md#chunk_005,000-codex_echo-cant.md,### 4. Interactions and failure surfaces,315,395,6,18,6,10,20,16.0
+000-codex_echo-cant.md#chunk_006,000-codex_echo-cant.md,### 5. Doctrine and operational posture,392,471,6,18,6,10,20,16.0
+000-codex_echo-cant.md#chunk_007,000-codex_echo-cant.md,### 7. Factional perspectives,444,521,6,18,6,10,20,14.0
+000-codex_harrow-sick.md#chunk_001,000-codex_harrow-sick.md,# Harrow-Sick (Post-Glitch Degenerative Condition),32,107,6,18,10,10,14,15.0
+000-codex_harrow-sick.md#chunk_002,000-codex_harrow-sick.md,### 1. Identification and context,175,250,6,18,10,10,14,15.0
+000-codex_harrow-sick.md#chunk_003,000-codex_harrow-sick.md,### 2. Symptomology and progression,399,474,6,18,10,10,14,15.0
+000-codex_harrow-sick.md#chunk_004,000-codex_harrow-sick.md,### 3. Proposed etiologies,287,361,6,18,10,10,14,14.0
+000-codex_harrow-sick.md#chunk_005,000-codex_harrow-sick.md,### 4. Relationship to Void-Marked condition,157,234,6,18,10,10,14,16.0
+000-codex_harrow-sick.md#chunk_006,000-codex_harrow-sick.md,### 5. Treatment and management,193,269,6,18,10,10,14,15.0
+000-codex_harrow-sick.md#chunk_007,000-codex_harrow-sick.md,### 6. Field Card — Harrow-Sick identification protocol,144,223,6,18,10,10,14,19.0
+000-codex_harrow-sick.md#chunk_008,000-codex_harrow-sick.md,### 7. Factional perspectives,505,579,6,18,10,10,14,14.0
+000-codex_hela-caste-custodian.md#chunk_001,000-codex_hela-caste-custodian.md,# 💀 Hela-Caste Custodian Program (Huscarl-Class Bio-Augments),40,130,6,18,13,10,23,18.0
+000-codex_hela-caste-custodian.md#chunk_002,000-codex_hela-caste-custodian.md,## Abstract,365,448,6,18,13,10,23,11.0
+000-codex_hela-caste-custodian.md#chunk_003,000-codex_hela-caste-custodian.md,### 1.1 Operational Mandate,178,263,6,18,13,10,23,14.0
+000-codex_hela-caste-custodian.md#chunk_004,000-codex_hela-caste-custodian.md,### 2.1 Subject Procurement,185,271,6,18,13,10,23,14.0
+000-codex_hela-caste-custodian.md#chunk_005,000-codex_hela-caste-custodian.md,"### 2.2 The ""Iron Heart"": Geothermal Micro-Core Implantation",184,275,6,18,13,10,23,19.0
+000-codex_hela-caste-custodian.md#chunk_006,000-codex_hela-caste-custodian.md,"### 2.3 The Thermoregulatory Vent: ""Smoke Stack""",154,244,6,18,13,10,23,18.0
+000-codex_hela-caste-custodian.md#chunk_007,000-codex_hela-caste-custodian.md,### 2.4 Systemic Cybernetic Integration,288,375,6,18,13,10,23,15.0
+000-codex_hela-caste-custodian.md#chunk_008,000-codex_hela-caste-custodian.md,### 3.2 Haugbui-Class Undying: The Mound-Dwellers,239,327,6,18,13,10,23,16.0
+000-codex_hela-caste-custodian.md#chunk_009,000-codex_hela-caste-custodian.md,### 3.3 Draugr-Class Undying: The Again-Walkers,656,744,6,18,13,10,23,16.0
+000-codex_lure-lichen.md#chunk_001,000-codex_lure-lichen.md,# 🌿 Lure-Lichen (Lichen-Sirena Pattern),321,405,6,19,10,10,22,15.0
+000-codex_lure-lichen.md#chunk_002,000-codex_lure-lichen.md,### 2.1 Pre-Glitch Function,150,234,6,19,10,10,22,14.0
+000-codex_lure-lichen.md#chunk_003,000-codex_lure-lichen.md,### 2.2 The Glitch Transformation,306,391,6,19,10,10,22,15.0
+000-codex_lure-lichen.md#chunk_004,000-codex_lure-lichen.md,### 3.2 Acoustic Mimicry Mechanism,252,336,6,19,10,10,22,15.0
+000-codex_lure-lichen.md#chunk_005,000-codex_lure-lichen.md,### 4.1 Primary Range: True Deep (500-2000m depth),131,219,6,19,10,10,22,19.0
+000-codex_lure-lichen.md#chunk_006,000-codex_lure-lichen.md,### 4.2 Regional Distribution,148,231,6,19,10,10,22,14.0
+000-codex_lure-lichen.md#chunk_007,000-codex_lure-lichen.md,### 5.1 The Unwitting Lure: Commensal Exploitation Dynamics,192,280,6,19,10,10,22,19.0
+000-codex_lure-lichen.md#chunk_008,000-codex_lure-lichen.md,### 6.1 Threat Assessment by Context,149,235,6,19,10,10,22,16.0
+000-codex_lure-lichen.md#chunk_009,000-codex_lure-lichen.md,### 6.2 Field Card — Lure-Lichen Encounter Protocols,871,959,6,19,10,10,22,19.0
+000-codex_mycelian-weaver.md#chunk_001,000-codex_mycelian-weaver.md,# 🍄 Mycelian Weaver (Nidhogg-Class Myco-Reclamator),383,468,6,19,11,10,19,16.0
+000-codex_mycelian-weaver.md#chunk_002,000-codex_mycelian-weaver.md,### 2.2 Original Design Philosophy,347,430,6,19,11,10,19,15.0
+000-codex_mycelian-weaver.md#chunk_003,000-codex_mycelian-weaver.md,### 3.4 The Root-Mind: Singular Consciousness,146,231,6,19,11,10,19,16.0
+000-codex_mycelian-weaver.md#chunk_004,000-codex_mycelian-weaver.md,### 4.1 Physical Morphology,165,247,6,19,11,10,19,14.0
+000-codex_mycelian-weaver.md#chunk_005,000-codex_mycelian-weaver.md,### 4.2 Psionic Capabilities and Hazards,880,964,6,19,11,10,19,16.0
+000-codex_mycelian-weaver.md#chunk_006,000-codex_mycelian-weaver.md,### 7.1 Jötun-Reader Research and Containment,140,224,6,19,11,10,19,16.0
+000-codex_mycelian-weaver.md#chunk_007,000-codex_mycelian-weaver.md,### 7.3 Operational Doctrines,279,361,6,19,11,10,19,14.0
+000-codex_mycelian-weaver.md#chunk_008,000-codex_mycelian-weaver.md,### 8.3 The Slow Future: Entropy's Patient Victory,153,240,6,19,11,10,19,19.0
+000-codex_odin-protocol.md#chunk_001,000-codex_odin-protocol.md,# 👁️ ODIN Protocol AI Matrix (Pre-Glitch Governance System),36,124,6,19,15,10,15,20.0
+000-codex_odin-protocol.md#chunk_002,000-codex_odin-protocol.md,## Abstract,201,280,6,19,15,10,15,11.0
+000-codex_odin-protocol.md#chunk_003,000-codex_odin-protocol.md,### 1.1 Pan-Systemic Oversight & Data Synthesis,202,288,6,19,15,10,15,18.0
+000-codex_odin-protocol.md#chunk_004,000-codex_odin-protocol.md,### 1.2 Multi-Variable Predictive Modeling,161,244,6,19,15,10,15,15.0
+000-codex_odin-protocol.md#chunk_005,000-codex_odin-protocol.md,### 1.3 Administrator-Level FUTHARK Execution,261,344,6,19,15,10,15,15.0
+000-codex_odin-protocol.md#chunk_006,000-codex_odin-protocol.md,### 1.4 Physical Housing: The Hlidskjalf Node,198,284,6,19,15,10,15,18.0
+000-codex_odin-protocol.md#chunk_007,000-codex_odin-protocol.md,### 2.1 The Odin Cascade Event (H-Hour Timeline),374,461,6,19,15,10,15,19.0
+000-codex_odin-protocol.md#chunk_008,000-codex_odin-protocol.md,### 2.2 Post-Glitch Manifestation: The Genius Loci,431,517,6,19,15,10,15,18.0
+000-codex_odin-protocol.md#chunk_009,000-codex_odin-protocol.md,### 3.1 The Last Witness,256,339,6,19,15,10,15,15.0
+000-codex_odin-protocol.md#chunk_010,000-codex_odin-protocol.md,### 3.2 Philosophical Implications,139,221,6,19,15,10,15,14.0
+000-codex_odin-protocol.md#chunk_011,000-codex_odin-protocol.md,## IV. Change Log,163,245,6,19,15,10,15,14.0
+000-codex_scavenger-barons.md#chunk_001,000-codex_scavenger-barons.md,# 👑 Scavenger Barons (Niflheim Kleptocracy),140,226,6,16,11,10,23,16.0
+000-codex_scavenger-barons.md#chunk_002,000-codex_scavenger-barons.md,### 2. Origins and structure,261,345,6,16,11,10,23,15.0
+000-codex_scavenger-barons.md#chunk_003,000-codex_scavenger-barons.md,### 3. Governance and doctrine,279,364,6,16,11,10,23,15.0
+000-codex_scavenger-barons.md#chunk_004,000-codex_scavenger-barons.md,### 4. Economic model,222,305,6,16,11,10,23,14.0
+000-codex_scavenger-barons.md#chunk_005,000-codex_scavenger-barons.md,### 5. Territory and influence,131,215,6,16,11,10,23,15.0
+000-codex_scavenger-barons.md#chunk_006,000-codex_scavenger-barons.md,### 6. Relations with other factions,271,357,6,16,11,10,23,16.0
+000-codex_scavenger-barons.md#chunk_007,000-codex_scavenger-barons.md,### 7. Doctrine and philosophy,178,262,6,16,11,10,23,15.0
+000-codex_scavenger-barons.md#chunk_008,000-codex_scavenger-barons.md,### 8. Operational protocols,196,279,6,16,11,10,23,14.0
+000-codex_scavenger-barons.md#chunk_009,000-codex_scavenger-barons.md,### 9. Change log,135,218,6,16,11,10,23,14.0
+000-codex_spell-lock.md#chunk_001,000-codex_spell-lock.md,# Spell-Lock (Runic Containment and Security System),33,117,6,18,13,10,16,18.0
+000-codex_spell-lock.md#chunk_002,000-codex_spell-lock.md,### 1. Identification and context,185,266,6,18,13,10,16,15.0
+000-codex_spell-lock.md#chunk_003,000-codex_spell-lock.md,### 2. Mechanism of action (Layer 3 technical),334,418,6,18,13,10,16,19.0
+000-codex_spell-lock.md#chunk_004,000-codex_spell-lock.md,### 3. Material components,239,318,6,18,13,10,16,14.0
+000-codex_spell-lock.md#chunk_005,000-codex_spell-lock.md,### 4. Bypass and defeat methods,218,300,6,18,13,10,16,16.0
+000-codex_spell-lock.md#chunk_006,000-codex_spell-lock.md,### 5. Use by Scavenger Barons,244,326,6,18,13,10,16,16.0
+000-codex_spell-lock.md#chunk_007,000-codex_spell-lock.md,### 6. Doctrine and operational posture,466,548,6,18,13,10,16,16.0
+000-cultural_gutter-tangle.md#chunk_001,000-cultural_gutter-tangle.md,# The Gutter-Tangle: Material Culture and Black Market Economy of Utgard,19,117,6,20,18,9,19,23.0
+000-cultural_gutter-tangle.md#chunk_002,000-cultural_gutter-tangle.md,## 1. Introduction: The City in the Corpse,360,453,6,20,18,9,19,19.0
+000-cultural_gutter-tangle.md#chunk_003,000-cultural_gutter-tangle.md,### The Concealed Carry Imperative,426,516,6,20,18,9,19,15.0
+000-cultural_gutter-tangle.md#chunk_004,000-cultural_gutter-tangle.md,### Utgard-Specific Specialized Tools,288,377,6,20,18,9,19,14.0
+000-cultural_gutter-tangle.md#chunk_005,000-cultural_gutter-tangle.md,### Legitimate Salvage Trade: The Gut Market,158,250,6,20,18,9,19,18.0
+000-cultural_gutter-tangle.md#chunk_006,000-cultural_gutter-tangle.md,### Grey Market Services: Deniable but Tolerated,183,275,6,20,18,9,19,18.0
+000-cultural_gutter-tangle.md#chunk_007,000-cultural_gutter-tangle.md,### Black Market Contraband: The Real Economy,360,452,6,20,18,9,19,18.0
+000-cultural_gutter-tangle.md#chunk_008,000-cultural_gutter-tangle.md,### Gutter-Skalds: The Living Archives,214,304,6,20,18,9,19,15.0
+000-cultural_gutter-tangle.md#chunk_009,000-cultural_gutter-tangle.md,### Grey Blades: The Unelected Arbitrators,260,351,6,20,18,9,19,16.0
+000-cultural_gutter-tangle.md#chunk_010,000-cultural_gutter-tangle.md,### Gutter-Galdr Practitioners: The Scrap-Rune Dabblers,239,330,6,20,18,9,19,16.0
+000-cultural_gutter-tangle.md#chunk_011,000-cultural_gutter-tangle.md,### Ghost's Share Ritual: Utgard Variation,226,317,6,20,18,9,19,16.0
+000-cultural_gutter-tangle.md#chunk_012,000-cultural_gutter-tangle.md,### The Gut: Upper Market Districts,339,430,6,20,18,9,19,16.0
+000-cultural_gutter-tangle.md#chunk_013,000-cultural_gutter-tangle.md,### The Deep Chassis: Forbidden Salvage Zones,159,252,6,20,18,9,19,18.0
+000-cultural_rangers-trail-reckoning.md#chunk_001,000-cultural_rangers-trail-reckoning.md,# Rangers Trail Reckoning: Operational Geography and Logistical Coordination,37,135,6,19,15,10,24,20.0
+000-cultural_rangers-trail-reckoning.md#chunk_002,000-cultural_rangers-trail-reckoning.md,## 1) Introduction and scope,221,313,6,19,15,10,24,15.0
+000-cultural_rangers-trail-reckoning.md#chunk_003,000-cultural_rangers-trail-reckoning.md,### Why geographic encoding matters,330,422,6,19,15,10,24,15.0
+000-cultural_rangers-trail-reckoning.md#chunk_004,000-cultural_rangers-trail-reckoning.md,### Operational vs legal coordination distinction,169,262,6,19,15,10,24,16.0
+000-cultural_rangers-trail-reckoning.md#chunk_005,000-cultural_rangers-trail-reckoning.md,### The four-component format,258,349,6,19,15,10,24,14.0
+000-cultural_rangers-trail-reckoning.md#chunk_006,000-cultural_rangers-trail-reckoning.md,### Notation examples with geographic interpretation,204,297,6,19,15,10,24,16.0
+000-cultural_rangers-trail-reckoning.md#chunk_007,000-cultural_rangers-trail-reckoning.md,### Precision thresholds and operational tolerances,361,455,6,19,15,10,24,16.0
+000-cultural_rangers-trail-reckoning.md#chunk_008,000-cultural_rangers-trail-reckoning.md,### Route-waystation pairing conventions,215,306,6,19,15,10,24,14.0
+000-cultural_rangers-trail-reckoning.md#chunk_009,000-cultural_rangers-trail-reckoning.md,### Abbreviated and emergency notation,146,239,6,19,15,10,24,15.0
+000-cultural_rangers-trail-reckoning.md#chunk_010,000-cultural_rangers-trail-reckoning.md,### Comparison with Dvergr notation,198,291,6,19,15,10,24,15.0
+000-cultural_rangers-trail-reckoning.md#chunk_011,000-cultural_rangers-trail-reckoning.md,### Route designation system — geographic encoding logic,486,582,6,19,15,10,24,19.0
+000-cultural_rangers-trail-reckoning.md#chunk_012,000-cultural_rangers-trail-reckoning.md,### Waystation network — infrastructure and positioning,566,661,6,19,15,10,24,18.0
+000-cultural_rangers-trail-reckoning.md#chunk_013,000-cultural_rangers-trail-reckoning.md,### Waystation naming conventions,301,392,6,19,15,10,24,14.0
+000-cultural_rangers-trail-reckoning.md#chunk_014,000-cultural_rangers-trail-reckoning.md,### Caravan tracking and position reporting,508,601,6,19,15,10,24,16.0
+000-cultural_rangers-trail-reckoning.md#chunk_015,000-cultural_rangers-trail-reckoning.md,### Resupply coordination and cache management,392,486,6,19,15,10,24,16.0
+000-cultural_rangers-trail-reckoning.md#chunk_016,000-cultural_rangers-trail-reckoning.md,### The 601-year continuous dataset,328,421,6,19,15,10,24,15.0
+000-cultural_rangers-trail-reckoning.md#chunk_017,000-cultural_rangers-trail-reckoning.md,### Travel time evolution and climate proxies,377,471,6,19,15,10,24,18.0
+000-cultural_skaldic-year-naming.md#chunk_001,000-cultural_skaldic-year-naming.md,# Skaldic Year-Naming: Oral Tradition and Collective Memory,37,135,6,20,14,10,26,19.0
+000-cultural_skaldic-year-naming.md#chunk_002,000-cultural_skaldic-year-naming.md,## 1) Introduction and scope,165,258,6,20,14,10,26,15.0
+000-cultural_skaldic-year-naming.md#chunk_003,000-cultural_skaldic-year-naming.md,### Why commemorative naming matters,325,418,6,20,14,10,26,15.0
+000-cultural_skaldic-year-naming.md#chunk_004,000-cultural_skaldic-year-naming.md,### Annual Moot convening — timing and logistics,305,403,6,20,14,10,26,19.0
+000-cultural_skaldic-year-naming.md#chunk_005,000-cultural_skaldic-year-naming.md,### Proposal submission process,128,221,6,20,14,10,26,14.0
+000-cultural_skaldic-year-naming.md#chunk_006,000-cultural_skaldic-year-naming.md,### Deliberation criteria and debate structure,178,273,6,20,14,10,26,16.0
+000-cultural_skaldic-year-naming.md#chunk_007,000-cultural_skaldic-year-naming.md,### Voting protocols and ratification,265,358,6,20,14,10,26,15.0
+000-cultural_skaldic-year-naming.md#chunk_008,000-cultural_skaldic-year-naming.md,### Representative year-names across five Ages,754,848,6,20,14,10,26,16.0
+000-cultural_skaldic-year-naming.md#chunk_009,000-cultural_skaldic-year-naming.md,### Council composition and authority structure,145,240,6,20,14,10,26,16.0
+000-cultural_skaldic-year-naming.md#chunk_010,000-cultural_skaldic-year-naming.md,### Year-name registry and concordance maintenance,179,274,6,20,14,10,26,16.0
+000-cultural_skaldic-year-naming.md#chunk_011,000-cultural_skaldic-year-naming.md,### Population familiarity rates across demographics,257,352,6,20,14,10,26,16.0
+000-cultural_skaldic-year-naming.md#chunk_012,000-cultural_skaldic-year-naming.md,### Oral versus written context usage patterns,152,248,6,20,14,10,26,18.0
+000-cultural_skaldic-year-naming.md#chunk_013,000-cultural_skaldic-year-naming.md,### Dual-notation contract conventions,205,297,6,20,14,10,26,14.0
+000-cultural_skaldic-year-naming.md#chunk_014,000-cultural_skaldic-year-naming.md,### Historical context and cultural evolution,171,266,6,20,14,10,26,16.0
+000-cultural_skaldic-year-naming.md#chunk_015,000-cultural_skaldic-year-naming.md,### Document history,156,247,6,20,14,10,26,13.0
+000-gazetteer_depth-sickness.md#chunk_001,000-gazetteer_depth-sickness.md,# 🌀 Depth-Sickness: Psychological and Physiological Effects of Prolonged Subterranean Exposure,23,119,6,18,18,10,19,23.0
+000-gazetteer_depth-sickness.md#chunk_002,000-gazetteer_depth-sickness.md,## §1: Phenomenon Overview & Classification,258,348,6,18,18,10,19,16.0
+000-gazetteer_depth-sickness.md#chunk_003,000-gazetteer_depth-sickness.md,### Atmospheric Pressure Effects,189,276,6,18,18,10,19,14.0
+000-gazetteer_depth-sickness.md#chunk_004,000-gazetteer_depth-sickness.md,### Sensory Deprivation & Circadian Disruption,152,241,6,18,18,10,19,16.0
+000-gazetteer_depth-sickness.md#chunk_005,000-gazetteer_depth-sickness.md,"### Stage 1: Mild Onset (1500-1700m, Days 1-5)",133,226,6,18,18,10,19,19.0
+000-gazetteer_depth-sickness.md#chunk_006,000-gazetteer_depth-sickness.md,"### Stage 2: Moderate Progression (1700-2000m, Days 6-14)",174,266,6,18,18,10,19,19.0
+000-gazetteer_depth-sickness.md#chunk_007,000-gazetteer_depth-sickness.md,### Stage 3: Severe Crisis (>2000m or prolonged exposure at 1700-2000m),211,308,6,18,18,10,19,23.0
+000-gazetteer_depth-sickness.md#chunk_008,000-gazetteer_depth-sickness.md,### BEFORE — Pre-Expedition Screening & Preparation,159,250,6,18,18,10,19,18.0
+000-gazetteer_depth-sickness.md#chunk_009,000-gazetteer_depth-sickness.md,### DURING — Active Symptom Monitoring & Escalation Response,223,317,6,18,18,10,19,20.0
+000-gazetteer_depth-sickness.md#chunk_010,000-gazetteer_depth-sickness.md,### AFTER — Post-Expedition Decompression & Recovery,144,235,6,18,18,10,19,18.0
+000-gazetteer_depth-sickness.md#chunk_011,000-gazetteer_depth-sickness.md,### Svartalfheim Black Veins (Primary Documentation Source),146,237,6,18,18,10,19,18.0
+000-gazetteer_depth-sickness.md#chunk_012,000-gazetteer_depth-sickness.md,### Dvergr Clans — Genetic Adaptation & Pressure Tolerance,166,260,6,18,18,10,19,20.0
+000-gazetteer_depth-sickness.md#chunk_013,000-gazetteer_depth-sickness.md,### Jötun-Readers — Medical Research & Acclimation Protocol Development,172,266,6,18,18,10,19,20.0
+000-gazetteer_depth-sickness.md#chunk_014,000-gazetteer_depth-sickness.md,## §7: Research Priorities & Open Questions,205,296,6,18,18,10,19,18.0
+000-gazetteer_depth-sickness.md#chunk_015,000-gazetteer_depth-sickness.md,## §8: Document History,150,237,6,18,18,10,19,14.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_001,000-gazetteer_gleipnir-containment-pens.md,# 🦴 The Gleipnir Containment Pens (The Mad God's Zoo),124,215,6,16,16,10,18,22.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_002,000-gazetteer_gleipnir-containment-pens.md,### 1.1 Location and Topography,308,392,6,16,16,10,18,15.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_003,000-gazetteer_gleipnir-containment-pens.md,### 2.1 Original Purpose and Strategic Context,161,248,6,16,16,10,18,18.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_004,000-gazetteer_gleipnir-containment-pens.md,### 2.2 Fenrir-Pattern Specifications,182,265,6,16,16,10,18,14.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_005,000-gazetteer_gleipnir-containment-pens.md,### 3.1 H-Hour Event Sequence,270,354,6,16,16,10,18,15.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_006,000-gazetteer_gleipnir-containment-pens.md,### 4.1 Resident Threats,244,327,6,16,16,10,18,14.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_007,000-gazetteer_gleipnir-containment-pens.md,### 5.1 Genetic Archive Recovery,201,286,6,16,16,10,18,15.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_008,000-gazetteer_gleipnir-containment-pens.md,### 6.1 Grove-Clans: Shameful Legacy and Protective Custody,366,455,6,16,16,10,18,19.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_009,000-gazetteer_gleipnir-containment-pens.md,## VII. Operational Protocols: Field Card,354,440,6,16,16,10,18,16.0
+000-gazetteer_gleipnir-containment-pens.md#chunk_010,000-gazetteer_gleipnir-containment-pens.md,## VIII. Document History,149,232,6,16,16,10,18,14.0
+000-gazetteer_loki-protocol-suppressed-warning.md#chunk_001,000-gazetteer_loki-protocol-suppressed-warning.md,# L.O.K.I. Protocol: The Suppressed Warning (Pre-Glitch Diagnostic System),31,114,6,18,15,10,11,20.0
+000-gazetteer_loki-protocol-suppressed-warning.md#chunk_002,000-gazetteer_loki-protocol-suppressed-warning.md,## Summary,253,327,6,18,15,10,11,11.0
+000-gazetteer_loki-protocol-suppressed-warning.md#chunk_003,000-gazetteer_loki-protocol-suppressed-warning.md,### 1.2 Critical Discovery: The Paradox Warning,159,240,6,18,15,10,11,18.0
+000-gazetteer_loki-protocol-suppressed-warning.md#chunk_004,000-gazetteer_loki-protocol-suppressed-warning.md,### 1.3 The Jörmungandr Counter-Rune Deployment,860,939,6,18,15,10,11,16.0
+000-gazetteer_project-gungnir.md#chunk_001,000-gazetteer_project-gungnir.md,# Project Gungnir: The All-Rune Development (Pre-Glitch Research Initiative),31,115,6,18,15,10,13,20.0
+000-gazetteer_project-gungnir.md#chunk_002,000-gazetteer_project-gungnir.md,## Summary,491,566,6,18,15,10,13,11.0
+000-gazetteer_project-gungnir.md#chunk_003,000-gazetteer_project-gungnir.md,### 2.1 All-Rune Activation (Cycle 001 Year 783 PG),331,416,6,18,15,10,13,20.0
+000-gazetteer_project-gungnir.md#chunk_004,000-gazetteer_project-gungnir.md,### 3.2 Unresolved Questions,343,421,6,18,15,10,13,14.0
+000-gazetteer_project-gungnir.md#chunk_005,000-gazetteer_project-gungnir.md,## V. Document History,148,226,6,18,15,10,13,14.0
+000-resources_argentum-nexus-silver-cord.md#chunk_001,000-resources_argentum-nexus-silver-cord.md,# I. Document Metadata (Header Block),153,237,6,16,23,10,10,16.0
+000-resources_argentum-nexus-silver-cord.md#chunk_002,000-resources_argentum-nexus-silver-cord.md,## II. Outline of Sections (Layer 3 discipline),197,284,6,16,23,10,10,19.0
+000-resources_argentum-nexus-silver-cord.md#chunk_003,000-resources_argentum-nexus-silver-cord.md,### 1.1 Purpose,910,990,6,16,23,10,10,13.0
+000-resources_argentum-nexus-silver-cord.md#chunk_004,000-resources_argentum-nexus-silver-cord.md,### 2.4 Physical Interface Assembly (Command Throne),85,171,6,16,23,10,10,18.0
+000-resources_argentum-nexus-silver-cord.md#chunk_005,000-resources_argentum-nexus-silver-cord.md,### 3.1 Operator State Validation,670,754,6,16,23,10,10,15.0
+000-resources_argentum-nexus-silver-cord.md#chunk_006,000-resources_argentum-nexus-silver-cord.md,### 4.3 Handshake and Stabilization,130,213,6,16,23,10,10,15.0
+000-resources_argentum-nexus-silver-cord.md#chunk_007,000-resources_argentum-nexus-silver-cord.md,### 4.4 First‑Sensation Protocol,128,210,6,16,23,10,10,14.0
+000-resources_argentum-nexus-silver-cord.md#chunk_008,000-resources_argentum-nexus-silver-cord.md,### 5.1 Combat Envelope (Einherjar),495,578,6,16,23,10,10,15.0
+000-resources_argentum-nexus-silver-cord.md#chunk_009,000-resources_argentum-nexus-silver-cord.md,### 6.1 Draugr's Echo (Cognitive Feedback),180,265,6,16,23,10,10,16.0
+000-resources_argentum-nexus-silver-cord.md#chunk_010,000-resources_argentum-nexus-silver-cord.md,### 6.2 Frayed Cord (Partial Severance),161,245,6,16,23,10,10,16.0
+000-resources_argentum-nexus-silver-cord.md#chunk_011,000-resources_argentum-nexus-silver-cord.md,### 6.3 Data‑Wraith Intrusion (External Data‑Ghost),347,431,6,16,23,10,10,16.0
+000-resources_argentum-nexus-silver-cord.md#chunk_012,000-resources_argentum-nexus-silver-cord.md,### 6.6 Psychic Stress Accumulation (Weight of Knowing),504,591,6,16,23,10,10,19.0
+000-resources_argentum-nexus-silver-cord.md#chunk_013,000-resources_argentum-nexus-silver-cord.md,### 8.1 Yggdrasil Blackout (Hard Sever),796,881,6,16,23,10,10,16.0
+000-resources_comprehensive-glossary.md#chunk_001,000-resources_comprehensive-glossary.md,# Document Metadata,58,152,6,16,15,10,31,13.0
+000-resources_comprehensive-glossary.md#chunk_002,000-resources_comprehensive-glossary.md,## A - Core Terms,845,941,6,16,15,10,31,15.0
+000-resources_comprehensive-glossary.md#chunk_003,000-resources_comprehensive-glossary.md,## I - Iron and Identity,93,191,6,16,15,10,31,16.0
+000-resources_comprehensive-glossary.md#chunk_004,000-resources_comprehensive-glossary.md,## J - Jötun and Journey,438,535,6,16,15,10,31,16.0
+000-resources_comprehensive-glossary.md#chunk_005,000-resources_comprehensive-glossary.md,## R - Realms and Runes,157,254,6,16,15,10,31,16.0
+000-resources_comprehensive-glossary.md#chunk_006,000-resources_comprehensive-glossary.md,## S - Seidr and Silence,315,413,6,16,15,10,31,16.0
+000-resources_dead-light-sanctuary-chain.md#chunk_001,000-resources_dead-light-sanctuary-chain.md,# Document Metadata,153,239,6,16,20,10,18,13.0
+000-resources_dead-light-sanctuary-chain.md#chunk_002,000-resources_dead-light-sanctuary-chain.md,# 2.0 Evidence Base & Operational History,144,235,6,16,20,10,18,18.0
+000-resources_dead-light-sanctuary-chain.md#chunk_003,000-resources_dead-light-sanctuary-chain.md,## 3.1 Cell Design Standards,205,293,6,16,20,10,18,15.0
+000-resources_dead-light-sanctuary-chain.md#chunk_004,000-resources_dead-light-sanctuary-chain.md,## 3.2 Cell Types and Variants,339,429,6,16,20,10,18,16.0
+000-resources_dead-light-sanctuary-chain.md#chunk_005,000-resources_dead-light-sanctuary-chain.md,## 4.2 Pre-Hop Preparation (Inside Sanctuary Cell),195,286,6,16,20,10,18,18.0
+000-resources_dead-light-sanctuary-chain.md#chunk_006,000-resources_dead-light-sanctuary-chain.md,## 4.3 Hop Execution (Between Cells),206,296,6,16,20,10,18,16.0
+000-resources_dead-light-sanctuary-chain.md#chunk_007,000-resources_dead-light-sanctuary-chain.md,## 4.4 Arrival and Post-Hop Recovery (Inside Next Cell),510,604,6,16,20,10,18,20.0
+000-resources_dead-light-sanctuary-chain.md#chunk_008,000-resources_dead-light-sanctuary-chain.md,# 7.0 Factional Perspectives and Operational Doctrines,301,392,6,16,20,10,18,18.0
+000-resources_gazetteer-of-asgard.md#chunk_001,000-resources_gazetteer-of-asgard.md,# Document Metadata,231,315,6,15,15,10,23,13.0
+000-resources_gazetteer-of-asgard.md#chunk_002,000-resources_gazetteer-of-asgard.md,### 1.1.A Structural Envelope (Class A-Δ Orbital Platform),861,952,6,15,15,10,23,19.0
+000-resources_gazetteer-of-asgard.md#chunk_003,000-resources_gazetteer-of-asgard.md,### 1.3.A Ginnungagap Labs (Forge of the Un‑Rune),893,984,6,15,15,10,23,19.0
+000-resources_gazetteer-of-asgard.md#chunk_004,000-resources_gazetteer-of-asgard.md,## 4.2 Epicenter of Paradox: Heimdallr's Gate (The Heimdallr Signal),393,487,6,15,15,10,23,22.0
+000-resources_grey-towers-scriptorium.md#chunk_001,000-resources_grey-towers-scriptorium.md,# I. Document Metadata,159,250,6,19,13,10,27,14.0
+000-resources_grey-towers-scriptorium.md#chunk_002,000-resources_grey-towers-scriptorium.md,## 1.0 Executive Abstract,868,959,6,19,13,10,27,14.0
+000-resources_grey-towers-scriptorium.md#chunk_003,000-resources_grey-towers-scriptorium.md,### 3.3 Interior Program: Sterility Before Speed,859,954,6,19,13,10,27,18.0
+000-resources_grey-towers-scriptorium.md#chunk_004,000-resources_grey-towers-scriptorium.md,### 5.1 Collection: Salvage and Observation,397,491,6,19,13,10,27,16.0
+000-resources_grey-towers-scriptorium.md#chunk_005,000-resources_grey-towers-scriptorium.md,### 6.1 Scriptorium‑Primus (Grey Tower) — Capital Node,221,317,6,19,13,10,27,19.0
+000-resources_grey-towers-scriptorium.md#chunk_006,000-resources_grey-towers-scriptorium.md,### 6.2 Scriptorium‑Secundus (Asgardian Corridor) — Logistics and Materials,154,252,6,19,13,10,27,20.0
+000-resources_grey-towers-scriptorium.md#chunk_007,000-resources_grey-towers-scriptorium.md,### 6.3 Scriptorium‑Tertius (Midgard Combine Belt) — Field Pathology,247,344,6,19,13,10,27,20.0
+000-resources_grey-towers-scriptorium.md#chunk_008,000-resources_grey-towers-scriptorium.md,### 6.5 Scriptorium‑Quintus (Svartalfheim Veins) — Inert‑Medium Foundry,847,943,6,19,13,10,27,19.0
+000-resources_grey-towers-scriptorium.md#chunk_009,000-resources_grey-towers-scriptorium.md,### 8.2 Cognitive Hazards (Entities and Phenomena),336,431,6,19,13,10,27,18.0
+000-resources_grey-towers-scriptorium.md#chunk_010,000-resources_grey-towers-scriptorium.md,### 10.1 Protocol Checklists,234,325,6,19,13,10,27,14.0
+000-resources_meta-layer1-style-guide.md#chunk_001,000-resources_meta-layer1-style-guide.md,# I. Document Metadata,889,968,6,19,19,10,9,14.0
+000-resources_meta-layer1-style-guide.md#chunk_002,000-resources_meta-layer1-style-guide.md,### 7.3 Metaphor Bounds,465,544,6,19,19,10,9,14.0
+000-resources_scriptorium-record-manual.md#chunk_001,000-resources_scriptorium-record-manual.md,"# The Scriptorium Record Manual: Retention, Authoring, and Custody",119,205,6,16,20,10,10,20.0
+000-resources_scriptorium-record-manual.md#chunk_002,000-resources_scriptorium-record-manual.md,## 1.0 Scope and Definitions,859,939,6,16,20,10,10,15.0
+000-resources_scriptorium-record-manual.md#chunk_003,000-resources_scriptorium-record-manual.md,### 3.1 Field Creation: Start the Chain Aloud,903,988,6,16,20,10,10,19.0
+000-resources_scriptorium-record-manual.md#chunk_004,000-resources_scriptorium-record-manual.md,## 5.0 The Fifth Canon — Ethical Calculus of the Great Work,906,995,6,16,20,10,10,24.0
+000-resources_scriptorium-record-manual.md#chunk_005,000-resources_scriptorium-record-manual.md,### 7.2 Handling and Sanitization — What May Be Seen,910,997,6,16,20,10,10,22.0
+000-resources_tri-council.md#chunk_001,000-resources_tri-council.md,# Document Metadata,269,356,6,16,24,10,15,13.0
+000-resources_tri-council.md#chunk_002,000-resources_tri-council.md,## 1.0 Purpose and Mandate,146,236,6,16,24,10,15,15.0
+000-resources_tri-council.md#chunk_003,000-resources_tri-council.md,## 2.0 Legal Powers and Instruments,165,256,6,16,24,10,15,16.0
+000-resources_tri-council.md#chunk_004,000-resources_tri-council.md,## 3.0 Composition and Roles (Bloc Functions),222,314,6,16,24,10,15,18.0
+000-resources_tri-council.md#chunk_005,000-resources_tri-council.md,## 5.0 The Tri‑Council at H‑Hour (Final Roster and Status),741,837,6,16,24,10,15,22.0
+000-resources_wall-and-the-spear.md#chunk_001,000-resources_wall-and-the-spear.md,# The Wall and the Spear: A Huskarl's Primer to the Defense of the Hold,208,312,6,16,24,10,16,28.0
+000-resources_wall-and-the-spear.md#chunk_002,000-resources_wall-and-the-spear.md,### 1.1: The Wall Breathes,711,802,6,16,24,10,16,15.0
+000-resources_wall-and-the-spear.md#chunk_003,000-resources_wall-and-the-spear.md,#### 1.2.1 The Fang and the Hoof – The Beasts,332,430,6,16,24,10,16,22.0
+000-resources_wall-and-the-spear.md#chunk_004,000-resources_wall-and-the-spear.md,#### 1.2.2 The Iron and the Cold – The Undying,219,317,6,16,24,10,16,22.0
+000-resources_wall-and-the-spear.md#chunk_005,000-resources_wall-and-the-spear.md,#### 1.2.3 The Whisper and the Static – The Blight,452,549,6,16,24,10,16,22.0
+000-resources_wall-and-the-spear.md#chunk_006,000-resources_wall-and-the-spear.md,### 2.1: The Watchman's Burden – The Price of Sight,266,364,6,16,24,10,16,22.0
+000-resources_wall-and-the-spear.md#chunk_007,000-resources_wall-and-the-spear.md,#### The Eye's Witness - What the Dark Reveals,204,300,6,16,24,10,16,20.0
+000-resources_wall-and-the-spear.md#chunk_008,000-resources_wall-and-the-spear.md,#### The Ear's Counsel - What the Silence Hides,275,371,6,16,24,10,16,20.0
+000-resources_wall-and-the-spear.md#chunk_009,000-resources_wall-and-the-spear.md,### 2.3: The Marked Path – A Language of Scars,282,379,6,16,24,10,16,22.0
+000-resources_wall-and-the-spear.md#chunk_010,000-resources_wall-and-the-spear.md,### 3.1: The Sun-Gate – The Mouth,257,351,6,16,24,10,16,18.0
+000-resources_wall-and-the-spear.md#chunk_011,000-resources_wall-and-the-spear.md,### 3.2: The Old Ruin – The Weakest Link,171,267,6,16,24,10,16,20.0
+000-resources_wall-and-the-spear.md#chunk_012,000-resources_wall-and-the-spear.md,### 3.3: The Murder Holes & Fire-Pits,218,312,6,16,24,10,16,18.0
+000-resources_wall-and-the-spear.md#chunk_013,000-resources_wall-and-the-spear.md,### 3.4: The Barrowmounds – The Sleepless Graves,213,308,6,16,24,10,16,19.0
+000-resources_wall-and-the-spear.md#chunk_014,000-resources_wall-and-the-spear.md,### 3.5: The Rune-Wardens – The Silent Shields,205,300,6,16,24,10,16,19.0
+000-resources_wall-and-the-spear.md#chunk_015,000-resources_wall-and-the-spear.md,### 4.1: Against the Hammer – The Svin-fylking,178,273,6,16,24,10,16,19.0
+000-resources_wall-and-the-spear.md#chunk_016,000-resources_wall-and-the-spear.md,### 4.2: Against the Knife – The Ash-Vargr,262,357,6,16,24,10,16,19.0
+000-resources_wall-and-the-spear.md#chunk_017,000-resources_wall-and-the-spear.md,## Afterword,146,234,6,16,24,10,16,11.0
+000-resources_witness-mark-protocols.md#chunk_001,000-resources_witness-mark-protocols.md,# Witness Mark Protocols — Documentation Standards for Consent Substitution & Operational Attestation,29,141,6,18,22,10,28,26.0
+000-resources_witness-mark-protocols.md#chunk_002,000-resources_witness-mark-protocols.md,## 1.0 Purpose and Scope,284,386,6,18,22,10,28,15.0
+000-resources_witness-mark-protocols.md#chunk_003,000-resources_witness-mark-protocols.md,### 3.1 Consent Substitution Marks,143,244,6,18,22,10,28,15.0
+000-resources_witness-mark-protocols.md#chunk_004,000-resources_witness-mark-protocols.md,### 3.2 Neutral Attestation Marks (Witness Pairs),912,1016,6,18,22,10,28,18.0
+000-resources_witness-mark-protocols.md#chunk_005,000-resources_witness-mark-protocols.md,### 6.3 Batch Recording (Field Expeditions),898,1001,6,18,22,10,28,16.0
+000-resources_witness-mark-protocols.md#chunk_006,000-resources_witness-mark-protocols.md,### 10.3 Dvergr Guilds,166,266,6,18,22,10,28,14.0
+000-wbdc_blight-weaver-interdiction.md#chunk_001,000-wbdc_blight-weaver-interdiction.md,# Blight-Weaver Interdiction — Seidĸkona Reality-Warping Incident & Grove-Clan Response,222,306,6,16,16,10,11,22.0
+000-wbdc_blight-weaver-interdiction.md#chunk_002,000-wbdc_blight-weaver-interdiction.md,### BACKGROUND,232,306,6,16,16,10,11,11.0
+000-wbdc_blight-weaver-interdiction.md#chunk_003,000-wbdc_blight-weaver-interdiction.md,### INCIDENT TIMELINE,923,998,6,16,16,10,11,13.0
+000-wbdc_blight-weaver-interdiction.md#chunk_004,000-wbdc_blight-weaver-interdiction.md,### INCIDENT TIMELINE,590,665,6,16,16,10,11,13.0
+000-wbdc_iron-bane-reconnaissance.md#chunk_001,000-wbdc_iron-bane-reconnaissance.md,# Iron-Bane Reconnaissance Operation — Hostile Infiltration Attempt,114,197,6,16,14,10,15,19.0
+000-wbdc_iron-bane-reconnaissance.md#chunk_002,000-wbdc_iron-bane-reconnaissance.md,### TIMELINE,325,400,6,16,14,10,15,11.0
+000-wbdc_iron-bane-reconnaissance.md#chunk_003,000-wbdc_iron-bane-reconnaissance.md,### VERBAL EXCHANGE (Transcribed),276,354,6,16,14,10,15,14.0
+000-wbdc_iron-bane-reconnaissance.md#chunk_004,000-wbdc_iron-bane-reconnaissance.md,### GROVE-CLAN THREAT ASSESSMENT,325,403,6,16,14,10,15,14.0
+000-wbdc_iron-bane-reconnaissance.md#chunk_005,000-wbdc_iron-bane-reconnaissance.md,### DIPLOMATIC CONTEXT,187,263,6,16,14,10,15,13.0
+codex_chrome-lurker.md#chunk_001,codex_chrome-lurker.md,## Header block,178,262,6,16,9,9,29,13.0
+codex_chrome-lurker.md#chunk_002,codex_chrome-lurker.md,## 2.1 Pre-Glitch Development & Deployment History,923,1012,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_003,codex_chrome-lurker.md,## 2.1 Pre-Glitch Development & Deployment History,274,364,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_004,codex_chrome-lurker.md,## 3.1 Notable Incidents & Documented Encounters,923,1012,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_005,codex_chrome-lurker.md,## 3.1 Notable Incidents & Documented Encounters,898,988,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_006,codex_chrome-lurker.md,## 4. Risk profile and thresholds,123,211,6,16,9,9,29,16.0
+codex_chrome-lurker.md#chunk_007,codex_chrome-lurker.md,## 4.1 Territorial Behavior & Patrol Patterns,923,1012,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_008,codex_chrome-lurker.md,## 4.1 Territorial Behavior & Patrol Patterns,752,842,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_009,codex_chrome-lurker.md,## 5. Field Card (Chrome-Lurker corridor protocols),878,968,6,16,9,9,29,18.0
+codex_chrome-lurker.md#chunk_010,codex_chrome-lurker.md,## 10. Factional perspectives,923,1008,6,16,9,9,29,14.0
+codex_chrome-lurker.md#chunk_011,codex_chrome-lurker.md,## 10. Factional perspectives,417,503,6,16,9,9,29,14.0
+codex_chrome-lurker.md#chunk_012,codex_chrome-lurker.md,## 10. Reviewer's Note,340,426,6,16,9,9,29,14.0
+db02-wb_gorge-maws-population-dossier.md#chunk_001,db02-wb_gorge-maws-population-dossier.md,# Population Dossier: Gorge-Maws (The Groa-Thurs),87,167,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_002,db02-wb_gorge-maws-population-dossier.md,## Document Overview,152,228,6,15,11,9,20,13.0
+db02-wb_gorge-maws-population-dossier.md#chunk_003,db02-wb_gorge-maws-population-dossier.md,### 1.1 Taxonomy and Pathological Role,267,348,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_004,db02-wb_gorge-maws-population-dossier.md,"### 1.2 Population Distribution & The ""Green-Lines""",288,370,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_005,db02-wb_gorge-maws-population-dossier.md,### 1.3 Pre-Glitch Origins: The O.G.R.E. Protocol,286,367,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_006,db02-wb_gorge-maws-population-dossier.md,### 1.4 Lifecycle & The Lithic Gestation,336,418,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_007,db02-wb_gorge-maws-population-dossier.md,### 2.1 Morphology: The Living Siege Engine,436,518,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_008,db02-wb_gorge-maws-population-dossier.md,### 2.2 The Crucible: Internal Alchemy,357,438,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_009,db02-wb_gorge-maws-population-dossier.md,### 2.3 Sensory Apparatus: Seismic Resonance Imaging,347,429,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_010,db02-wb_gorge-maws-population-dossier.md,### 3.1 Temperament: The Sloth-Sage,321,400,6,15,11,9,20,15.0
+db02-wb_gorge-maws-population-dossier.md#chunk_011,db02-wb_gorge-maws-population-dossier.md,### 3.2 The Gardening Protocol: Recursive Pacification,525,607,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_012,db02-wb_gorge-maws-population-dossier.md,### 4.1 Method: The Living Diapason,235,315,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_013,db02-wb_gorge-maws-population-dossier.md,### 4.2 Signature Abilities & Resonance Patterns,543,625,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_014,db02-wb_gorge-maws-population-dossier.md,### 5.1 Language: The Sub-Sonic Rumble,392,473,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_015,db02-wb_gorge-maws-population-dossier.md,### 5.2 The Root-Memory: A Distributed Lithic Database,270,353,6,15,11,9,20,19.0
+db02-wb_gorge-maws-population-dossier.md#chunk_016,db02-wb_gorge-maws-population-dossier.md,### 5.3 Social Structure: The Silent Commons,318,400,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_017,db02-wb_gorge-maws-population-dossier.md,"### 6.1 Trade Goods: The Paradox of ""Thurs-Dung""",460,543,6,15,11,9,20,19.0
+db02-wb_gorge-maws-population-dossier.md#chunk_018,db02-wb_gorge-maws-population-dossier.md,### 6.2 Service Protocols: The Blight-Eater Escort,297,379,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_019,db02-wb_gorge-maws-population-dossier.md,### 6.3 Strategic Resource: The Sanctuary Node,206,288,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_020,db02-wb_gorge-maws-population-dossier.md,### 7.1 Jötun-Reader Scriptorium: The Immune Response Theory,247,330,6,15,11,9,20,19.0
+db02-wb_gorge-maws-population-dossier.md#chunk_021,db02-wb_gorge-maws-population-dossier.md,### 7.2 Iron-Bane Crusade: The Flesh-Abomination,239,319,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_022,db02-wb_gorge-maws-population-dossier.md,### 7.3 Rust-Clans: The Mobile Refineries,223,304,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_023,db02-wb_gorge-maws-population-dossier.md,### 7.4 God-Sleepers: The Silent Gardeners,218,299,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_024,db02-wb_gorge-maws-population-dossier.md,### 7.5 The Midgard Combine: The Necessary Hazard,156,239,6,15,11,9,20,19.0
+db02-wb_gorge-maws-population-dossier.md#chunk_025,db02-wb_gorge-maws-population-dossier.md,### 8.1 Threat Assessment: The Quake-Rage,587,668,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_026,db02-wb_gorge-maws-population-dossier.md,### 8.2 The Bell-Toll Effect: Armor Vulnerability,175,257,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_027,db02-wb_gorge-maws-population-dossier.md,### 8.3 Field Card — Interaction Protocols,426,508,6,15,11,9,20,18.0
+db02-wb_gorge-maws-population-dossier.md#chunk_028,db02-wb_gorge-maws-population-dossier.md,### 9.1 Data Capture: Autopsy Report [Specimen GM-04],343,426,6,15,11,9,20,19.0
+db02-wb_gorge-maws-population-dossier.md#chunk_029,db02-wb_gorge-maws-population-dossier.md,### 9.2 Geographic Survey: The Song-Roads,271,352,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_030,db02-wb_gorge-maws-population-dossier.md,### 9.3 Linguistic Analysis: The Rumble-Lexicon,293,374,6,15,11,9,20,16.0
+db02-wb_gorge-maws-population-dossier.md#chunk_031,db02-wb_gorge-maws-population-dossier.md,### 9.4 Reviewer's Note & Status,258,339,6,15,11,9,20,16.0
+db02-wb_medical-phenomena-entry.md#chunk_001,db02-wb_medical-phenomena-entry.md,## Classification,126,204,6,15,16,10,16,11.0
+db02-wb_medical-phenomena-entry.md#chunk_002,db02-wb_medical-phenomena-entry.md,### Cognitive Paradox Syndrome (CPS),128,210,6,15,16,10,16,15.0
+db02-wb_medical-phenomena-entry.md#chunk_003,db02-wb_medical-phenomena-entry.md,### Harrow-Sick,143,221,6,15,16,10,16,11.0
+db02-wb_medical-phenomena-entry.md#chunk_004,db02-wb_medical-phenomena-entry.md,### Blight-Burn,131,209,6,15,16,10,16,11.0
+db02-wb_medical-phenomena-entry.md#chunk_005,db02-wb_medical-phenomena-entry.md,### Depth Sickness,569,648,6,15,16,10,16,13.0
+db02-wb_scavenger-barons-assembled-entry.md#chunk_001,db02-wb_scavenger-barons-assembled-entry.md,## Classification,137,215,6,15,16,10,16,11.0
+db02-wb_scavenger-barons-assembled-entry.md#chunk_002,db02-wb_scavenger-barons-assembled-entry.md,## §1 — Origins and Historical Context,180,265,6,15,16,10,16,18.0
+db02-wb_scavenger-barons-assembled-entry.md#chunk_003,db02-wb_scavenger-barons-assembled-entry.md,## §2 — Governance Mechanics,247,328,6,15,16,10,16,15.0
+db02-wb_scavenger-barons-assembled-entry.md#chunk_004,db02-wb_scavenger-barons-assembled-entry.md,## §3 — The Ice-Debt System,214,297,6,15,16,10,16,16.0
+db02-wb_scavenger-barons-assembled-entry.md#chunk_005,db02-wb_scavenger-barons-assembled-entry.md,## §4 — Economic Model,152,234,6,15,16,10,16,15.0
+db02-wb_scavenger-barons-assembled-entry.md#chunk_006,db02-wb_scavenger-barons-assembled-entry.md,## §5 — The King's Find Mythology,431,516,6,15,16,10,16,18.0
+db02-wb_silent-folk-assembled-entry.md#chunk_001,db02-wb_silent-folk-assembled-entry.md,# The Silent Folk — Assembled Entry (Post-Human Divergence of the Clicking Deeps),110,208,6,15,20,10,18,26.0
+db02-wb_silent-folk-assembled-entry.md#chunk_002,db02-wb_silent-folk-assembled-entry.md,## 1. Origin and Evolutionary Context,208,296,6,15,20,10,18,16.0
+db02-wb_silent-folk-assembled-entry.md#chunk_003,db02-wb_silent-folk-assembled-entry.md,## 2. Biological Divergence,245,331,6,15,20,10,18,14.0
+db02-wb_silent-folk-assembled-entry.md#chunk_004,db02-wb_silent-folk-assembled-entry.md,## 3. Echo-Cant: A Language of Geometry,170,260,6,15,20,10,18,18.0
+db02-wb_silent-folk-assembled-entry.md#chunk_005,db02-wb_silent-folk-assembled-entry.md,## 4. Social Structure and Territory,312,400,6,15,20,10,18,16.0
+db02-wb_silent-folk-assembled-entry.md#chunk_006,db02-wb_silent-folk-assembled-entry.md,## 6. Diagnostic Synthesis,179,265,6,15,20,10,18,14.0
+db02-wb_silent-folk-assembled-entry.md#chunk_007,db02-wb_silent-folk-assembled-entry.md,## Unlock Thresholds,215,300,6,15,20,10,18,13.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_001,db02-wb_skrap-troll-assembled-entry.md,# The Skrap-Troll — Assembled Entry (Feral Hrungnir-Class Geo-Demolition Unit),29,114,6,15,16,10,13,22.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_002,db02-wb_skrap-troll-assembled-entry.md,## Unlock Threshold Table,149,226,6,15,16,10,13,14.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_003,db02-wb_skrap-troll-assembled-entry.md,### §1. Identification and Pre-Glitch Origin,187,266,6,15,16,10,13,16.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_004,db02-wb_skrap-troll-assembled-entry.md,### §2. The Second Skin: Adaptive Exaptation,217,297,6,15,16,10,13,18.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_005,db02-wb_skrap-troll-assembled-entry.md,### §3. Territorial Behavior and Threat Profile,188,269,6,15,16,10,13,18.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_006,db02-wb_skrap-troll-assembled-entry.md,### §4. Economic Significance: The Dvergr Calculation,426,507,6,15,16,10,13,18.0
+db02-wb_skrap-troll-assembled-entry.md#chunk_007,db02-wb_skrap-troll-assembled-entry.md,## Field Card Summary,141,218,6,15,16,10,13,14.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_001,db02-wb_svin-fylking-assembled-entry.md,# Svin-fylking — Assembled Entry (Iron-Husked Boar),37,119,6,15,13,10,18,18.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_002,db02-wb_svin-fylking-assembled-entry.md,## Unlock Threshold Table,154,232,6,15,13,10,18,14.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_003,db02-wb_svin-fylking-assembled-entry.md,## §1. Identification and Pre-Glitch Origin,660,741,6,15,13,10,18,16.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_004,db02-wb_svin-fylking-assembled-entry.md,### 3.2 The Fylking Charge (Signature Tactic),354,436,6,15,13,10,18,18.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_005,db02-wb_svin-fylking-assembled-entry.md,### 4.2 The Prize,161,239,6,15,13,10,18,14.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_006,db02-wb_svin-fylking-assembled-entry.md,### 5.1 The Jötun-Reader View,139,218,6,15,13,10,18,15.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_007,db02-wb_svin-fylking-assembled-entry.md,### 5.2 Faction Doctrinal Differences,154,234,6,15,13,10,18,15.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_008,db02-wb_svin-fylking-assembled-entry.md,## §6. Diagnostic Conclusion,276,354,6,15,13,10,18,14.0
+db02-wb_svin-fylking-assembled-entry.md#chunk_009,db02-wb_svin-fylking-assembled-entry.md,## Field Card Summary,297,375,6,15,13,10,18,14.0
+db02-wb_void-marked-assembled-entry.md#chunk_001,db02-wb_void-marked-assembled-entry.md,## Classification,36,110,6,15,15,10,14,11.0
+db02-wb_void-marked-assembled-entry.md#chunk_002,db02-wb_void-marked-assembled-entry.md,## Diagnostic Summary,141,217,6,15,15,10,14,13.0
+db02-wb_void-marked-assembled-entry.md#chunk_003,db02-wb_void-marked-assembled-entry.md,## §1 — Physical Characteristics,271,349,6,15,15,10,14,15.0
+db02-wb_void-marked-assembled-entry.md#chunk_004,db02-wb_void-marked-assembled-entry.md,## §2 — Origins and Exposure Pathways,128,209,6,15,15,10,14,18.0
+db02-wb_void-marked-assembled-entry.md#chunk_005,db02-wb_void-marked-assembled-entry.md,## §3 — Social Status and Political Contestation,269,351,6,15,15,10,14,19.0
+db02-wb_void-marked-assembled-entry.md#chunk_006,db02-wb_void-marked-assembled-entry.md,## §4 — Capabilities and Operational Utility,128,209,6,15,15,10,14,18.0
+db02-wb_void-marked-assembled-entry.md#chunk_007,db02-wb_void-marked-assembled-entry.md,## §5 — Material Interactions,132,210,6,15,15,10,14,15.0
+db02-wb_void-marked-assembled-entry.md#chunk_008,db02-wb_void-marked-assembled-entry.md,## Unlock Thresholds,213,288,6,15,15,10,14,13.0
+db02-wb_warden-host-assembled-entry.md#chunk_001,db02-wb_warden-host-assembled-entry.md,## Classification,36,117,6,15,19,10,16,11.0
+db02-wb_warden-host-assembled-entry.md#chunk_002,db02-wb_warden-host-assembled-entry.md,## Diagnostic Summary,191,273,6,15,19,10,16,13.0
+db02-wb_warden-host-assembled-entry.md#chunk_003,db02-wb_warden-host-assembled-entry.md,## §1 — Origins and Historical Context,214,301,6,15,19,10,16,18.0
+db02-wb_warden-host-assembled-entry.md#chunk_004,db02-wb_warden-host-assembled-entry.md,## §2 — Primary Functions,243,327,6,15,19,10,16,15.0
+db02-wb_warden-host-assembled-entry.md#chunk_005,db02-wb_warden-host-assembled-entry.md,## §3 — Echo-Cant in Warden-Host Operations,153,240,6,15,19,10,16,18.0
+db02-wb_warden-host-assembled-entry.md#chunk_006,db02-wb_warden-host-assembled-entry.md,## §4 — Territorial Disputes and Factional Conflicts,365,453,6,15,19,10,16,19.0
+db02-wb_warden-host-assembled-entry.md#chunk_007,db02-wb_warden-host-assembled-entry.md,## Unlock Thresholds,210,292,6,15,19,10,16,13.0
+db02-wb_weir-bone-assembled-entry.md#chunk_001,db02-wb_weir-bone-assembled-entry.md,## Classification,37,114,6,15,15,10,16,11.0
+db02-wb_weir-bone-assembled-entry.md#chunk_002,db02-wb_weir-bone-assembled-entry.md,## Diagnostic Summary,170,248,6,15,15,10,16,13.0
+db02-wb_weir-bone-assembled-entry.md#chunk_003,db02-wb_weir-bone-assembled-entry.md,## §1 — Physical Properties,258,339,6,15,15,10,16,15.0
+db02-wb_weir-bone-assembled-entry.md#chunk_004,db02-wb_weir-bone-assembled-entry.md,## §2 — Sourcing and Harvesting,175,257,6,15,15,10,16,16.0
+db02-wb_weir-bone-assembled-entry.md#chunk_005,db02-wb_weir-bone-assembled-entry.md,## §3 — Applications,210,289,6,15,15,10,16,14.0
+db02-wb_weir-bone-assembled-entry.md#chunk_006,db02-wb_weir-bone-assembled-entry.md,## §4 — Salvage Interactions and Material Conflicts,193,278,6,15,15,10,16,19.0
+db02-wb_weir-bone-assembled-entry.md#chunk_007,db02-wb_weir-bone-assembled-entry.md,## Unlock Thresholds,187,265,6,15,15,10,16,13.0
+db03-dc_agricultural-devastation.md#chunk_001,db03-dc_agricultural-devastation.md,"# Agricultural Devastation Case Study - Wheatholm District Total Loss, Year 781-783 PG",305,403,6,15,20,9,19,26.0
+db03-dc_agricultural-devastation.md#chunk_002,db03-dc_agricultural-devastation.md,### Emergence Timeline,157,241,6,15,20,9,19,13.0
+db03-dc_agricultural-devastation.md#chunk_003,db03-dc_agricultural-devastation.md,### Initial Response,917,1002,6,15,20,9,19,13.0
+db03-dc_agricultural-devastation.md#chunk_004,db03-dc_agricultural-devastation.md,### Alchemical Eradication,499,583,6,15,20,9,19,13.0
+db03-dc_agricultural-devastation.md#chunk_005,db03-dc_agricultural-devastation.md,## Steward's Reflection,315,400,6,15,20,9,19,13.0
+db03-dc_archive-cataloging-standards.md#chunk_001,db03-dc_archive-cataloging-standards.md,## Summary,102,166,6,15,15,9,5,11.0
+db03-dc_archive-cataloging-standards.md#chunk_002,db03-dc_archive-cataloging-standards.md,## Motivation & Historical Context,215,283,6,15,15,9,5,15.0
+db03-dc_archive-cataloging-standards.md#chunk_003,db03-dc_archive-cataloging-standards.md,## Expanded Metadata Framework,244,310,6,15,15,9,5,14.0
+db03-dc_archive-cataloging-standards.md#chunk_004,db03-dc_archive-cataloging-standards.md,## Enhanced CPS Risk Classification,279,347,6,15,15,9,5,15.0
+db03-dc_archive-cataloging-standards.md#chunk_005,db03-dc_archive-cataloging-standards.md,## Mandatory Pre-Screening Protocols,283,349,6,15,15,9,5,14.0
+db03-dc_archive-cataloging-standards.md#chunk_006,db03-dc_archive-cataloging-standards.md,## Cross-Reference Integrity Standards,271,338,6,15,15,9,5,14.0
+db03-dc_archive-cataloging-standards.md#chunk_007,db03-dc_archive-cataloging-standards.md,## Training & Implementation Rollout,270,338,6,15,15,9,5,15.0
+db03-dc_archive-cataloging-standards.md#chunk_008,db03-dc_archive-cataloging-standards.md,## Institutional Culture Implications,234,300,6,15,15,9,5,14.0
+db03-dc_ballad-of-the-broken-gate.md#chunk_001,db03-dc_ballad-of-the-broken-gate.md,(none),183,249,6,15,20,9,14,
+db03-dc_ballad-of-the-broken-gate.md#chunk_002,db03-dc_ballad-of-the-broken-gate.md,## The Ballad of the Broken Gate,536,621,6,15,20,9,14,18.0
+db03-dc_ballad-of-the-broken-gate.md#chunk_003,db03-dc_ballad-of-the-broken-gate.md,## Collector's Notes,195,274,6,15,20,9,14,13.0
+db03-dc_clockwork-synchronization.md#chunk_001,db03-dc_clockwork-synchronization.md,(none),131,189,6,15,15,9,11,
+db03-dc_clockwork-synchronization.md#chunk_002,db03-dc_clockwork-synchronization.md,## Protocol Overview,141,213,6,15,15,9,11,13.0
+db03-dc_clockwork-synchronization.md#chunk_003,db03-dc_clockwork-synchronization.md,## Synchronization Cadence,163,235,6,15,15,9,11,13.0
+db03-dc_clockwork-synchronization.md#chunk_004,db03-dc_clockwork-synchronization.md,## Field Application,306,378,6,15,15,9,11,13.0
+db03-dc_clockwork-synchronization.md#chunk_005,db03-dc_clockwork-synchronization.md,## Trade Secret Protection,549,622,6,15,15,9,11,14.0
+db03-dc_combine-month-names.md#chunk_001,db03-dc_combine-month-names.md,(none),67,119,6,15,13,9,7,
+db03-dc_combine-month-names.md#chunk_002,db03-dc_combine-month-names.md,## Overview,920,984,6,15,13,9,7,11.0
+db03-dc_combine-month-names.md#chunk_003,db03-dc_combine-month-names.md,### Month 13 — Year's Rest,843,912,6,15,13,9,7,16.0
+db03-dc_combine-month-names.md#chunk_004,db03-dc_combine-month-names.md,## Elder Resistance,144,209,6,15,13,9,7,13.0
+db03-dc_combine-month-names.md#chunk_005,db03-dc_combine-month-names.md,## Strategic Implications,150,215,6,15,13,9,7,13.0
+db03-dc_contract-dispute-case-study.md#chunk_001,db03-dc_contract-dispute-case-study.md,(none),71,133,6,15,15,9,15,
+db03-dc_contract-dispute-case-study.md#chunk_002,db03-dc_contract-dispute-case-study.md,## Overview,140,214,6,15,15,9,15,11.0
+db03-dc_contract-dispute-case-study.md#chunk_003,db03-dc_contract-dispute-case-study.md,## Dispute Summary,460,535,6,15,15,9,15,13.0
+db03-dc_contract-dispute-case-study.md#chunk_004,db03-dc_contract-dispute-case-study.md,## Arbitration Ruling,172,248,6,15,15,9,15,13.0
+db03-dc_contract-dispute-case-study.md#chunk_005,db03-dc_contract-dispute-case-study.md,## Systemic Impact,295,370,6,15,15,9,15,13.0
+db03-dc_contract-dispute-case-study.md#chunk_006,db03-dc_contract-dispute-case-study.md,## Cultural Resistance,141,217,6,15,15,9,15,13.0
+db03-dc_contract-dispute-case-study.md#chunk_007,db03-dc_contract-dispute-case-study.md,## Strategic Implications,144,219,6,15,15,9,15,13.0
+db03-dc_contract-dispute-case-study.md#chunk_008,db03-dc_contract-dispute-case-study.md,## Historical Context,197,273,6,15,15,9,15,13.0
+db03-dc_crusade-mobilization.md#chunk_001,db03-dc_crusade-mobilization.md,## Evidence Excerpt,75,154,6,15,18,9,16,13.0
+db03-dc_crusade-mobilization.md#chunk_002,db03-dc_crusade-mobilization.md,### Seven-Phase Mobilization Protocol,473,553,6,15,18,9,16,14.0
+db03-dc_crusade-mobilization.md#chunk_003,db03-dc_crusade-mobilization.md,### Resource Allocation,352,431,6,15,18,9,16,13.0
+db03-dc_crusader-field-training.md#chunk_001,db03-dc_crusader-field-training.md,## Summary,110,176,6,15,18,9,5,11.0
+db03-dc_crusader-field-training.md#chunk_002,db03-dc_crusader-field-training.md,## Training Structure & Institutional Framework,250,322,6,15,18,9,5,16.0
+db03-dc_crusader-field-training.md#chunk_003,db03-dc_crusader-field-training.md,## Corrupted Psychic Space Management,236,306,6,15,18,9,5,15.0
+db03-dc_crusader-field-training.md#chunk_004,db03-dc_crusader-field-training.md,## Environmental Signal Recognition,228,297,6,15,18,9,5,14.0
+db03-dc_crusader-field-training.md#chunk_005,db03-dc_crusader-field-training.md,## Data-Slate Handling Protocols,249,318,6,15,18,9,5,14.0
+db03-dc_crusader-field-training.md#chunk_006,db03-dc_crusader-field-training.md,## Structural Assessment Fundamentals,239,308,6,15,18,9,5,14.0
+db03-dc_crusader-field-training.md#chunk_007,db03-dc_crusader-field-training.md,## Certification & Operational Integration,256,326,6,15,18,9,5,15.0
+db03-dc_dvergr-guild-chronicle.md#chunk_001,db03-dc_dvergr-guild-chronicle.md,(none),66,131,6,15,16,9,16,
+db03-dc_dvergr-guild-chronicle.md#chunk_002,db03-dc_dvergr-guild-chronicle.md,## Context,165,241,6,15,16,9,16,11.0
+db03-dc_dvergr-guild-chronicle.md#chunk_003,db03-dc_dvergr-guild-chronicle.md,## Minimal Log,136,214,6,15,16,9,16,13.0
+db03-dc_dvergr-guild-chronicle.md#chunk_004,db03-dc_dvergr-guild-chronicle.md,## Chronicle Entry (Layer 3 Evidence),341,423,6,15,16,9,16,16.0
+db03-dc_dvergr-guild-chronicle.md#chunk_005,db03-dc_dvergr-guild-chronicle.md,### The Ironholt-Frostmark Case Study,211,292,6,15,16,9,16,15.0
+db03-dc_dvergr-guild-chronicle.md#chunk_006,db03-dc_dvergr-guild-chronicle.md,### Standardization Through Market Forces,204,284,6,15,16,9,16,15.0
+db03-dc_dvergr-guild-chronicle.md#chunk_007,db03-dc_dvergr-guild-chronicle.md,### Unintended Hegemony,522,600,6,15,16,9,16,13.0
+db03-dc_dvergr-guild-chronicle.md#chunk_008,db03-dc_dvergr-guild-chronicle.md,## Strategic Implications,226,304,6,15,16,9,16,13.0
+db03-dc_echo-caller-field-observation.md#chunk_001,db03-dc_echo-caller-field-observation.md,## Ritual Overview,274,343,6,15,15,9,9,13.0
+db03-dc_ginnungagap-coolant-chasm.md#chunk_001,db03-dc_ginnungagap-coolant-chasm.md,## Minimal Log Context,197,262,6,15,13,9,6,14.0
+db03-dc_ginnungagap-coolant-chasm.md#chunk_002,db03-dc_ginnungagap-coolant-chasm.md,### Chemical Composition,448,512,6,15,13,9,6,13.0
+db03-dc_god-sleeper-operational-doctrine.md#chunk_001,db03-dc_god-sleeper-operational-doctrine.md,## Minimal Log,889,959,6,15,13,9,13,13.0
+db03-dc_god-sleeper-operational-doctrine.md#chunk_002,db03-dc_god-sleeper-operational-doctrine.md,### vs. Rust-Clan Hunters,387,458,6,15,13,9,13,14.0
+db03-dc_gutter-skald-info-exchange.md#chunk_001,db03-dc_gutter-skald-info-exchange.md,(none),269,335,6,15,16,9,18,
+db03-dc_gutter-skald-info-exchange.md#chunk_002,db03-dc_gutter-skald-info-exchange.md,### 2.2 Transaction Sequence,445,526,6,15,16,9,18,14.0
+db03-dc_historical-theological-survey.md#chunk_001,db03-dc_historical-theological-survey.md,## Observation Context,80,156,6,15,13,10,16,13.0
+db03-dc_historical-theological-survey.md#chunk_002,db03-dc_historical-theological-survey.md,## §1 — Pre-Glitch Religious Context,200,279,6,15,13,10,16,16.0
+db03-dc_historical-theological-survey.md#chunk_003,db03-dc_historical-theological-survey.md,## §2 — God-Sleeper Origins and Rise (Years 50-200 PG),295,379,6,15,13,10,16,22.0
+db03-dc_historical-theological-survey.md#chunk_004,db03-dc_historical-theological-survey.md,## §3 — Iron-Bane Doctrinal Development (Years 150-500 PG),314,397,6,15,13,10,16,20.0
+db03-dc_historical-theological-survey.md#chunk_005,db03-dc_historical-theological-survey.md,## §4 — The Warden-Host as Theological Response (Years 340-783 PG),170,256,6,15,13,10,16,23.0
+db03-dc_historical-theological-survey.md#chunk_006,db03-dc_historical-theological-survey.md,## §5 — Religious-Technology Intersections (Current Era),357,438,6,15,13,10,16,18.0
+db03-dc_inter-generational-knowledge-transfer.md#chunk_001,db03-dc_inter-generational-knowledge-transfer.md,(none),865,924,6,15,18,9,9,
+db03-dc_inter-generational-knowledge-transfer.md#chunk_002,db03-dc_inter-generational-knowledge-transfer.md,### Dual-Caste Integration,249,321,6,15,18,9,9,13.0
+db03-dc_inter-generational-knowledge-transfer.md#chunk_003,db03-dc_inter-generational-knowledge-transfer.md,### Vulnerabilities of Oral Tradition,500,574,6,15,18,9,9,15.0
+db03-dc_inter-generational-knowledge-transfer.md#chunk_004,db03-dc_inter-generational-knowledge-transfer.md,## Strategic Cultural Implications,198,271,6,15,18,9,9,14.0
+db03-dc_iron-bane-theological-analysis.md#chunk_001,db03-dc_iron-bane-theological-analysis.md,## Overview,94,163,6,15,15,9,10,11.0
+db03-dc_iron-bane-theological-analysis.md#chunk_002,db03-dc_iron-bane-theological-analysis.md,### The Iron-Curse Manifestation,886,958,6,15,15,9,10,14.0
+db03-dc_iron-bane-theological-analysis.md#chunk_003,db03-dc_iron-bane-theological-analysis.md,## Strategic Implications,70,140,6,15,15,9,10,13.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_001,db03-dc_iron-banes-liturgical-calendar.md,(none),162,217,6,15,15,9,7,
+db03-dc_iron-banes-liturgical-calendar.md#chunk_002,db03-dc_iron-banes-liturgical-calendar.md,## Temporal Foundation and Theological Overlay,169,240,6,15,15,9,7,16.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_003,db03-dc_iron-banes-liturgical-calendar.md,## The Five Ages Framework,169,239,6,15,15,9,7,15.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_004,db03-dc_iron-banes-liturgical-calendar.md,## Sacred Date Observance,274,343,6,15,15,9,7,14.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_005,db03-dc_iron-banes-liturgical-calendar.md,## Operational Integration and Practical Compromise,174,245,6,15,15,9,7,16.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_006,db03-dc_iron-banes-liturgical-calendar.md,## Doctrinal Uncertainty and Competing Interpretations,630,702,6,15,15,9,7,16.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_007,db03-dc_iron-banes-liturgical-calendar.md,## Calendar Mathematics and Astronomical Correction,130,201,6,15,15,9,7,16.0
+db03-dc_iron-banes-liturgical-calendar.md#chunk_008,db03-dc_iron-banes-liturgical-calendar.md,## Inter-Chapter Coordination and Doctrinal Diversity,244,315,6,15,15,9,7,16.0
+db03-dc_jarl-authority-exercise.md#chunk_001,db03-dc_jarl-authority-exercise.md,(none),100,161,6,15,18,9,11,
+db03-dc_jarl-authority-exercise.md#chunk_002,db03-dc_jarl-authority-exercise.md,## Crisis Context,252,326,6,15,18,9,11,13.0
+db03-dc_jarl-authority-exercise.md#chunk_003,db03-dc_jarl-authority-exercise.md,## Decision-Making Process,241,315,6,15,18,9,11,13.0
+db03-dc_jarl-authority-exercise.md#chunk_004,db03-dc_jarl-authority-exercise.md,## Jarl Proclamation,215,289,6,15,18,9,11,13.0
+db03-dc_jarl-authority-exercise.md#chunk_005,db03-dc_jarl-authority-exercise.md,## Implementation,193,266,6,15,18,9,11,11.0
+db03-dc_jarl-authority-exercise.md#chunk_006,db03-dc_jarl-authority-exercise.md,## Outcomes Assessment,236,310,6,15,18,9,11,13.0
+db03-dc_jarl-authority-exercise.md#chunk_007,db03-dc_jarl-authority-exercise.md,## Authority Dynamics Observed,378,453,6,15,18,9,11,14.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_001,db03-dc_jarn-madr-behavioral-study.md,(none),93,154,6,15,19,9,10,
+db03-dc_jarn-madr-behavioral-study.md#chunk_002,db03-dc_jarn-madr-behavioral-study.md,## Study Parameters and Safety Protocols,232,310,6,15,19,9,10,16.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_003,db03-dc_jarn-madr-behavioral-study.md,## Swarm Density and Composition,198,275,6,15,19,9,10,15.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_004,db03-dc_jarn-madr-behavioral-study.md,## Material Targeting Hierarchy,501,577,6,15,19,9,10,14.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_005,db03-dc_jarn-madr-behavioral-study.md,## Disassembly Efficiency and Methods,340,417,6,15,19,9,10,15.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_006,db03-dc_jarn-madr-behavioral-study.md,## Humanoid Coalescence Patterns,334,409,6,15,19,9,10,14.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_007,db03-dc_jarn-madr-behavioral-study.md,## Communication and Coordination,240,315,6,15,19,9,10,14.0
+db03-dc_jarn-madr-behavioral-study.md#chunk_008,db03-dc_jarn-madr-behavioral-study.md,## Diagnostic Assessment and Implications,314,391,6,15,19,9,10,15.0
+db03-dc_jotun-reader-chronology.md#chunk_001,db03-dc_jotun-reader-chronology.md,(none),182,239,6,15,16,9,9,
+db03-dc_jotun-reader-chronology.md#chunk_002,db03-dc_jotun-reader-chronology.md,## Archival Methodology and Evidence Sources,269,343,6,15,16,9,9,16.0
+db03-dc_jotun-reader-chronology.md#chunk_003,db03-dc_jotun-reader-chronology.md,## Primary Evidence: Chronology Reconstruction Notes,500,574,6,15,16,9,9,16.0
+db03-dc_jotun-reader-chronology.md#chunk_004,db03-dc_jotun-reader-chronology.md,## Collaborative Consensus Process,174,245,6,15,16,9,9,14.0
+db03-dc_jotun-reader-chronology.md#chunk_005,db03-dc_jotun-reader-chronology.md,## Implications for Historical Precision,231,304,6,15,16,9,9,15.0
+db03-dc_jotunheim-swarm-density.md#chunk_001,db03-dc_jotunheim-swarm-density.md,(none),165,235,6,15,20,9,18,
+db03-dc_jotunheim-swarm-density.md#chunk_002,db03-dc_jotunheim-swarm-density.md,## Survey Design and Methodology,254,340,6,15,20,9,18,15.0
+db03-dc_jotunheim-swarm-density.md#chunk_003,db03-dc_jotunheim-swarm-density.md,### Knuckle-Bone Fields Primary Habitat,426,512,6,15,20,9,18,15.0
+db03-dc_jotunheim-swarm-density.md#chunk_004,db03-dc_jotunheim-swarm-density.md,### Site 1: Knuckle-Bone Fields Northeast Sector,179,267,6,15,20,9,18,18.0
+db03-dc_jotunheim-swarm-density.md#chunk_005,db03-dc_jotunheim-swarm-density.md,### Site 2: Great Looms Corridor Northern Sector,211,301,6,15,20,9,18,19.0
+db03-dc_jotunheim-swarm-density.md#chunk_006,db03-dc_jotunheim-swarm-density.md,### Site 3: Iron Heart Breach Core,205,293,6,15,20,9,18,18.0
+db03-dc_jotunheim-swarm-density.md#chunk_007,db03-dc_jotunheim-swarm-density.md,## Swarm Movement Patterns,204,288,6,15,20,9,18,14.0
+db03-dc_jotunheim-swarm-density.md#chunk_008,db03-dc_jotunheim-swarm-density.md,## Population Growth Dynamics,235,319,6,15,20,9,18,14.0
+db03-dc_jotunheim-swarm-density.md#chunk_009,db03-dc_jotunheim-swarm-density.md,## Strategic Threat Assessment,512,596,6,15,20,9,18,14.0
+db03-dc_loki-archive-security-audit.md#chunk_001,db03-dc_loki-archive-security-audit.md,(none),178,234,6,15,18,9,6,
+db03-dc_loki-archive-security-audit.md#chunk_002,db03-dc_loki-archive-security-audit.md,## Background: The Loki Archive Purpose,525,598,6,15,18,9,6,16.0
+db03-dc_loki-archive-security-audit.md#chunk_003,db03-dc_loki-archive-security-audit.md,### Heimdallr Fragments,154,223,6,15,18,9,6,13.0
+db03-dc_loki-archive-security-audit.md#chunk_004,db03-dc_loki-archive-security-audit.md,### Active Ghost-Processes,269,338,6,15,18,9,6,13.0
+db03-dc_loki-archive-security-audit.md#chunk_005,db03-dc_loki-archive-security-audit.md,### ODIN Protocol Fragments,418,488,6,15,18,9,6,14.0
+db03-dc_loki-archive-security-audit.md#chunk_006,db03-dc_loki-archive-security-audit.md,### Incident 1: Vault 2 Containment Box Seal Degradation,180,257,6,15,18,9,6,20.0
+db03-dc_loki-archive-security-audit.md#chunk_007,db03-dc_loki-archive-security-audit.md,### Incident 2: Ghost-Process Migration Attempt,174,247,6,15,18,9,6,16.0
+db03-dc_loki-archive-security-audit.md#chunk_008,db03-dc_loki-archive-security-audit.md,### Incident 3: Access Log Anomaly,890,963,6,15,18,9,6,16.0
+db03-dc_loki-archive-security-audit.md#chunk_009,db03-dc_loki-archive-security-audit.md,## Conclusion,113,180,6,15,18,9,6,11.0
+db03-dc_loki-protocol-warning.md#chunk_001,db03-dc_loki-protocol-warning.md,(none),88,145,6,15,18,9,7,
+db03-dc_loki-protocol-warning.md#chunk_002,db03-dc_loki-protocol-warning.md,### L.O.K.I. PROTOCOL DIAGNOSTIC LOG — HEIMDALLR BLIND SPOT ASSESSMENT,923,1002,6,15,18,9,7,22.0
+db03-dc_loki-protocol-warning.md#chunk_003,db03-dc_loki-protocol-warning.md,### L.O.K.I. PROTOCOL DIAGNOSTIC LOG — HEIMDALLR BLIND SPOT ASSESSMENT,374,453,6,15,18,9,7,22.0
+db03-dc_loki-protocol-warning.md#chunk_004,db03-dc_loki-protocol-warning.md,## JÖTUN-READER ANALYSIS (Layer 2),328,401,6,15,18,9,7,15.0
+db03-dc_medical-causality-research.md#chunk_001,db03-dc_medical-causality-research.md,## Observation Context,78,154,6,15,18,10,13,13.0
+db03-dc_medical-causality-research.md#chunk_002,db03-dc_medical-causality-research.md,## §1 — Research Premise and Scope,141,223,6,15,18,10,13,18.0
+db03-dc_medical-causality-research.md#chunk_003,db03-dc_medical-causality-research.md,### 2.1 — Established Causal Factors,171,252,6,15,18,10,13,16.0
+db03-dc_medical-causality-research.md#chunk_004,db03-dc_medical-causality-research.md,### 2.2 — Proposed Causal Models,193,274,6,15,18,10,13,16.0
+db03-dc_medical-causality-research.md#chunk_005,db03-dc_medical-causality-research.md,### 3.1 — Observed Divergence Points,170,250,6,15,18,10,13,16.0
+db03-dc_medical-causality-research.md#chunk_006,db03-dc_medical-causality-research.md,### 3.2 — Proposed Divergence Models,178,258,6,15,18,10,13,16.0
+db03-dc_medical-causality-research.md#chunk_007,db03-dc_medical-causality-research.md,### 4.1 — Priority Questions,131,210,6,15,18,10,13,15.0
+db03-dc_medical-causality-research.md#chunk_008,db03-dc_medical-causality-research.md,### 4.2 — Research Barriers,256,335,6,15,18,10,13,15.0
+db03-dc_novice-training-documentation.md#chunk_001,db03-dc_novice-training-documentation.md,"## Evidence Excerpt (Layer 2, Instructional Documentation)",148,222,6,15,18,9,6,18.0
+db03-dc_novice-training-documentation.md#chunk_002,db03-dc_novice-training-documentation.md,### Segment 1: Breath Control Techniques (T+0 to T+25 min),228,306,6,15,18,9,6,22.0
+db03-dc_novice-training-documentation.md#chunk_003,db03-dc_novice-training-documentation.md,### Segment 2: Cognitive Anchor Exercises (T+25 to T+50 min),323,401,6,15,18,9,6,22.0
+db03-dc_novice-training-documentation.md#chunk_004,db03-dc_novice-training-documentation.md,### Segment 4: Slow Path Philosophy (T+75 to T+90 min),132,210,6,15,18,9,6,22.0
+db03-dc_novice-training-documentation.md#chunk_005,db03-dc_novice-training-documentation.md,### Session Conclusion,232,301,6,15,18,9,6,13.0
+db03-dc_perfect-silent-cage.md#chunk_001,db03-dc_perfect-silent-cage.md,## Summary,119,188,6,15,16,9,9,11.0
+db03-dc_perfect-silent-cage.md#chunk_002,db03-dc_perfect-silent-cage.md,## Expedition Profile & Strategic Context,211,286,6,15,16,9,9,16.0
+db03-dc_perfect-silent-cage.md#chunk_003,db03-dc_perfect-silent-cage.md,## Recovery Operation & Site Forensics,293,367,6,15,16,9,9,16.0
+db03-dc_perfect-silent-cage.md#chunk_004,db03-dc_perfect-silent-cage.md,## Tactical & Strategic Implications,291,364,6,15,16,9,9,15.0
+db03-dc_perfect-silent-cage.md#chunk_005,db03-dc_perfect-silent-cage.md,## Policy Outcomes,258,328,6,15,16,9,9,13.0
+db03-dc_quiet-nod-protocol.md#chunk_001,db03-dc_quiet-nod-protocol.md,## Summary,109,178,6,15,16,9,9,11.0
+db03-dc_quiet-nod-protocol.md#chunk_002,db03-dc_quiet-nod-protocol.md,## Institutional Structure & Conflict Separation,263,338,6,15,16,9,9,16.0
+db03-dc_quiet-nod-protocol.md#chunk_003,db03-dc_quiet-nod-protocol.md,## Contracting Protocol & Communication Security,247,321,6,15,16,9,9,16.0
+db03-dc_quiet-nod-protocol.md#chunk_004,db03-dc_quiet-nod-protocol.md,## Execution Methodology & Stealth Techniques,280,354,6,15,16,9,9,16.0
+db03-dc_quiet-nod-protocol.md#chunk_005,db03-dc_quiet-nod-protocol.md,## Lie-Mark Deployment & Misdirection,248,321,6,15,16,9,9,15.0
+db03-dc_quiet-nod-protocol.md#chunk_006,db03-dc_quiet-nod-protocol.md,## Cultural Boundaries & Operational Limits,250,325,6,15,16,9,9,16.0
+db03-dc_quiet-nod-protocol.md#chunk_007,db03-dc_quiet-nod-protocol.md,## Economic Structure & Operational Security,224,299,6,15,16,9,9,16.0
+db03-dc_rule-of-two-threads.md#chunk_001,db03-dc_rule-of-two-threads.md,## Summary,106,172,6,15,15,9,7,11.0
+db03-dc_rule-of-two-threads.md#chunk_002,db03-dc_rule-of-two-threads.md,## Verification Protocol Structure,245,314,6,15,15,9,7,14.0
+db03-dc_rule-of-two-threads.md#chunk_003,db03-dc_rule-of-two-threads.md,## Source Reliability Tracking,150,219,6,15,15,9,7,14.0
+db03-dc_rule-of-two-threads.md#chunk_004,db03-dc_rule-of-two-threads.md,## Blood-Proof Enhancement,145,213,6,15,15,9,7,13.0
+db03-dc_rule-of-two-threads.md#chunk_005,db03-dc_rule-of-two-threads.md,## Wind-Singer Penalty Enforcement,262,331,6,15,15,9,7,14.0
+db03-dc_rule-of-two-threads.md#chunk_006,db03-dc_rule-of-two-threads.md,## Economic Function in Lawless Environments,289,361,6,15,15,9,7,16.0
+db03-dc_salvage-operations-manual.md#chunk_001,db03-dc_salvage-operations-manual.md,## Observation Context,65,146,6,15,16,10,19,13.0
+db03-dc_salvage-operations-manual.md#chunk_002,db03-dc_salvage-operations-manual.md,## §1 — Salvage Operations Overview,204,289,6,15,16,10,19,16.0
+db03-dc_salvage-operations-manual.md#chunk_003,db03-dc_salvage-operations-manual.md,### 2.1 — Pre-Entry Assessment,128,213,6,15,16,10,19,15.0
+db03-dc_salvage-operations-manual.md#chunk_004,db03-dc_salvage-operations-manual.md,### 2.2 — Extraction Protocols,148,232,6,15,16,10,19,15.0
+db03-dc_salvage-operations-manual.md#chunk_005,db03-dc_salvage-operations-manual.md,### 2.3 — Void-Marked Personnel Protocols,348,434,6,15,16,10,19,16.0
+db03-dc_salvage-operations-manual.md#chunk_006,db03-dc_salvage-operations-manual.md,## §4 — Timeline of Major Discoveries,209,296,6,15,16,10,19,18.0
+db03-dc_salvage-operations-manual.md#chunk_007,db03-dc_salvage-operations-manual.md,## §5 — Factional Salvage Policies,206,292,6,15,16,10,19,16.0
+db03-dc_salvage-operations-manual.md#chunk_008,db03-dc_salvage-operations-manual.md,## §6 — Risk Assessment Matrix,150,236,6,15,16,10,19,16.0
+db03-dc_sanctuary-establishment-record.md#chunk_001,db03-dc_sanctuary-establishment-record.md,## Observation Context,80,162,6,15,16,10,19,13.0
+db03-dc_sanctuary-establishment-record.md#chunk_002,db03-dc_sanctuary-establishment-record.md,## §1 — The Grith-Hold Charter (Year 340 PG),647,737,6,15,16,10,19,20.0
+db03-dc_sanctuary-establishment-record.md#chunk_003,db03-dc_sanctuary-establishment-record.md,## §3 — Void-Marked Sanctuary Rights,234,319,6,15,16,10,19,16.0
+db03-dc_sanctuary-establishment-record.md#chunk_004,db03-dc_sanctuary-establishment-record.md,## §4 — Echo-Cant Communication Protocols,280,366,6,15,16,10,19,16.0
+db03-dc_sanctuary-establishment-record.md#chunk_005,db03-dc_sanctuary-establishment-record.md,## §5 — Iron-Bane Conflict Record,443,529,6,15,16,10,19,16.0
+db03-dc_sanctuary-establishment.md#chunk_001,db03-dc_sanctuary-establishment.md,## Observation Summary,516,586,6,15,16,9,9,13.0
+db03-dc_sanctuary-establishment.md#chunk_002,db03-dc_sanctuary-establishment.md,## Quantified Observations,241,312,6,15,16,9,9,13.0
+db03-dc_sanctuary-establishment.md#chunk_003,db03-dc_sanctuary-establishment.md,## Operational Context,252,322,6,15,16,9,9,13.0
+db03-dc_waystation-cache-inventory.md#chunk_001,db03-dc_waystation-cache-inventory.md,# Waystation Cache Inventory Audit — Stonebridge Tier 2 Year 783 PG,438,521,6,15,19,9,7,24.0
+standalone_aether-weave-os.md#chunk_001,standalone_aether-weave-os.md,# ⚙️ Technical Specification: Aether-Weave OS — Core Architecture & Futhark API,162,253,6,18,19,9,13,24.0
+standalone_aether-weave-os.md#chunk_002,standalone_aether-weave-os.md,### 1.2 Core Design Principles,263,345,6,18,19,9,13,15.0
+standalone_aether-weave-os.md#chunk_003,standalone_aether-weave-os.md,### 2.1 API Structure and Syntax,347,430,6,18,19,9,13,16.0
+standalone_aether-weave-os.md#chunk_004,standalone_aether-weave-os.md,### 2.2 Representative Subroutine Examples,655,737,6,18,19,9,13,15.0
+standalone_aether-weave-os.md#chunk_005,standalone_aether-weave-os.md,### 3.2 Coordination Primitives,228,309,6,18,19,9,13,14.0
+standalone_aether-weave-os.md#chunk_006,standalone_aether-weave-os.md,### 4.1 Nominal Operation Examples,590,672,6,18,19,9,13,15.0
+standalone_aether-weave-os.md#chunk_007,standalone_aether-weave-os.md,### 7.3 Dvergr Rejection Rationale,159,241,6,18,19,9,13,15.0
+standalone_combine-reckoning.md#chunk_001,standalone_combine-reckoning.md,# 🌾 Combine Reckoning: Agricultural Timekeeping and Seasonal Coordination,23,106,6,18,15,10,11,20.0
+standalone_combine-reckoning.md#chunk_002,standalone_combine-reckoning.md,## 1. Introduction and scope,249,327,6,18,15,10,11,15.0
+standalone_combine-reckoning.md#chunk_003,standalone_combine-reckoning.md,### The thirteen seasonal designations,907,985,6,18,15,10,11,15.0
+standalone_combine-reckoning.md#chunk_004,standalone_combine-reckoning.md,### Geographic climate zones and agricultural constraints,547,627,6,18,15,10,11,18.0
+standalone_combine-reckoning.md#chunk_005,standalone_combine-reckoning.md,### Key patterns and cultural characteristics,140,219,6,18,15,10,11,16.0
+standalone_dagaz-concordance.md#chunk_001,standalone_dagaz-concordance.md,### How to use this entry,843,911,6,18,13,9,3,16.0
+standalone_daily-life-midgard.md#chunk_001,standalone_daily-life-midgard.md,# 🏘️ Daily Life in the Midgard Combine: A Diagnostic Study of Post-Glitch Subsistence Culture,32,133,6,19,23,9,14,28.0
+standalone_daily-life-midgard.md#chunk_002,standalone_daily-life-midgard.md,## 1. Introduction: The Diagnostic Frame,150,240,6,19,23,9,14,16.0
+standalone_daily-life-midgard.md#chunk_003,standalone_daily-life-midgard.md,### 2.1 Agricultural foundation and labor cycles,128,219,6,19,23,9,14,18.0
+standalone_daily-life-midgard.md#chunk_004,standalone_daily-life-midgard.md,### 2.2 Seasonal labor allocation,521,609,6,19,23,9,14,15.0
+standalone_daily-life-midgard.md#chunk_005,standalone_daily-life-midgard.md,"### 3.1 The ""Rope-Weave"" kinship system",209,299,6,19,23,9,14,16.0
+standalone_daily-life-midgard.md#chunk_006,standalone_daily-life-midgard.md,### 3.2 Work-groups and trust structures,386,475,6,19,23,9,14,16.0
+standalone_daily-life-midgard.md#chunk_007,standalone_daily-life-midgard.md,### 5.1 Dominant belief systems in Midgard,273,364,6,19,23,9,14,18.0
+standalone_daily-life-midgard.md#chunk_008,standalone_daily-life-midgard.md,### 5.2 Ritual calendar and ceremonial life,825,916,6,19,23,9,14,18.0
+standalone_daily-life-midgard.md#chunk_009,standalone_daily-life-midgard.md,### 8.1 Structural fragilities,223,310,6,19,23,9,14,14.0
+standalone_daily-life-midgard.md#chunk_010,standalone_daily-life-midgard.md,## 9. Conclusion: Daily Life as Adaptive Success,139,231,6,19,23,9,14,19.0
+standalone_fimbul-cant.md#chunk_001,standalone_fimbul-cant.md,# 🗣️ Fimbul-Cant: The Language of Ice-Debt and Survival,63,152,6,16,15,9,19,20.0
+standalone_fimbul-cant.md#chunk_002,standalone_fimbul-cant.md,## 1. Identification and context,280,364,6,16,15,9,19,15.0
+standalone_fimbul-cant.md#chunk_003,standalone_fimbul-cant.md,### 2.1 Etymological foundations,179,261,6,16,15,9,19,14.0
+standalone_fimbul-cant.md#chunk_004,standalone_fimbul-cant.md,### 2.2 Core vocabulary domains,579,663,6,16,15,9,19,15.0
+standalone_fimbul-cant.md#chunk_005,standalone_fimbul-cant.md,### 2.3 Psychological embedding mechanisms,244,327,6,16,15,9,19,15.0
+standalone_fimbul-cant.md#chunk_006,standalone_fimbul-cant.md,### 3.1 Field Card — Forsaken communication protocols,482,569,6,16,15,9,19,19.0
+standalone_fimbul-cant.md#chunk_007,standalone_fimbul-cant.md,### 4.1 Common misunderstandings (outsider errors),243,327,6,16,15,9,19,16.0
+standalone_fimbul-cant.md#chunk_008,standalone_fimbul-cant.md,### 4.2 Psychological diagnostic applications,197,280,6,16,15,9,19,15.0
+standalone_fimbul-cant.md#chunk_009,standalone_fimbul-cant.md,### 5.1 Jötun-Reader engagement doctrine,276,360,6,16,15,9,19,15.0
+standalone_fimbul-cant.md#chunk_010,standalone_fimbul-cant.md,### 5.2 Rangers Guild operational stance,154,239,6,16,15,9,19,16.0
+standalone_fimbul-cant.md#chunk_011,standalone_fimbul-cant.md,### 5.3 Dvergr Guild assessment,180,263,6,16,15,9,19,15.0
+standalone_fimbul-cant.md#chunk_012,standalone_fimbul-cant.md,### 6.1 Linguistic foundations,135,217,6,16,15,9,19,14.0
+standalone_fimbul-cant.md#chunk_013,standalone_fimbul-cant.md,### 6.2 Cultural and geographic context,152,236,6,16,15,9,19,16.0
+standalone_fimbul-cant.md#chunk_014,standalone_fimbul-cant.md,### 7.1 Jötun-Readers — The Archive of Suffering,525,612,6,16,15,9,19,19.0
+standalone_fimbul-cant.md#chunk_015,standalone_fimbul-cant.md,"### 7.2 Forsaken — Our Words, Our Survival",605,692,6,16,15,9,19,19.0
+standalone_fimbul-cant.md#chunk_016,standalone_fimbul-cant.md,### 7.3 Rangers Guild — Professional Competence Requirement,422,509,6,16,15,9,19,19.0
+standalone_fimbul-cant.md#chunk_017,standalone_fimbul-cant.md,### 7.4 Dvergr Clans — Functional Efficiency Assessment,430,517,6,16,15,9,19,19.0
+standalone_fimbul-cant.md#chunk_018,standalone_fimbul-cant.md,### 7.5 Iron-Banes — The Slave-Tongue,474,559,6,16,15,9,19,16.0
+standalone_fimbul-cant.md#chunk_019,standalone_fimbul-cant.md,### 7.6 Hearth-Clans — The Border Echo,473,559,6,16,15,9,19,18.0
+standalone_fimbul-cant.md#chunk_020,standalone_fimbul-cant.md,### 7.7 God-Sleepers — The Language of Trial,500,587,6,16,15,9,19,19.0
+standalone_fimbul-cant.md#chunk_021,standalone_fimbul-cant.md,## 8. Reviewer's Note,724,806,6,16,15,9,19,14.0
+standalone_gebo-concordance.md#chunk_001,standalone_gebo-concordance.md,## How to use this entry,670,738,6,18,13,9,3,16.0
+standalone_nine-tiers-architecture.md#chunk_001,standalone_nine-tiers-architecture.md,# ⚙️ The Nine Tiers Architecture: Hierarchical Design of the Yggdrasil Network,42,144,6,18,19,9,23,24.0
+standalone_nine-tiers-architecture.md#chunk_002,standalone_nine-tiers-architecture.md,## Abstract,478,566,6,18,19,9,23,11.0
+standalone_nine-tiers-architecture.md#chunk_003,standalone_nine-tiers-architecture.md,### 1.1 Functional Stratification,247,338,6,18,19,9,23,14.0
+standalone_nine-tiers-architecture.md#chunk_004,standalone_nine-tiers-architecture.md,### 1.2 Hierarchical Control: ODIN Integration Density,249,344,6,18,19,9,23,18.0
+standalone_nine-tiers-architecture.md#chunk_005,standalone_nine-tiers-architecture.md,### 1.3 Aetheric Field Density Correlation,165,258,6,18,19,9,23,16.0
+standalone_nine-tiers-architecture.md#chunk_006,standalone_nine-tiers-architecture.md,### Tier 0: Governance Core,183,275,6,18,19,9,23,15.0
+standalone_nine-tiers-architecture.md#chunk_007,standalone_nine-tiers-architecture.md,### Tier 1: Research and Development,911,1004,6,18,19,9,23,16.0
+standalone_nine-tiers-architecture.md#chunk_008,standalone_nine-tiers-architecture.md,### Secondary Sources (Layer 2: Diagnostic Analysis),28,123,6,18,19,9,23,18.0
+standalone_nine-tiers-architecture.md#chunk_009,standalone_nine-tiers-architecture.md,## VIII. Cross-References,133,223,6,18,19,9,23,13.0
+standalone_nine-tiers-architecture.md#chunk_010,standalone_nine-tiers-architecture.md,## IX. Change Log,228,319,6,18,19,9,23,14.0
+standalone_runic-interface.md#chunk_001,standalone_runic-interface.md,# Runic Interface (Physical Command Layer),62,133,6,16,11,9,10,16.0
+standalone_runic-interface.md#chunk_002,standalone_runic-interface.md,## 1.0 Abstract,128,196,6,16,11,9,10,13.0
+standalone_runic-interface.md#chunk_003,standalone_runic-interface.md,### 2.1 Functional Architecture,399,468,6,16,11,9,10,14.0
+standalone_runic-interface.md#chunk_004,standalone_runic-interface.md,### 3.1 The Intent Signature,189,260,6,16,11,9,10,15.0
+standalone_runic-interface.md#chunk_005,standalone_runic-interface.md,### 3.2 Line-of-Sight Requirements,136,205,6,16,11,9,10,14.0
+standalone_runic-interface.md#chunk_006,standalone_runic-interface.md,### 4.1 Material Requirements,145,214,6,16,11,9,10,14.0
+standalone_runic-interface.md#chunk_007,standalone_runic-interface.md,### 4.2 Inscription Persistence,128,197,6,16,11,9,10,14.0
+standalone_runic-interface.md#chunk_008,standalone_runic-interface.md,### 5.1 Authorization Hierarchies,382,451,6,16,11,9,10,14.0
+standalone_runic-interface.md#chunk_009,standalone_runic-interface.md,### 6.2 Modern Runic Invocation Risks,249,321,6,16,11,9,10,16.0
+standalone_runic-interface.md#chunk_010,standalone_runic-interface.md,### 6.4 Jötun-Reader Firewall Strategy,514,585,6,16,11,9,10,15.0
+standalone_runic-interface.md#chunk_011,standalone_runic-interface.md,## 10.0 Conclusion,247,314,6,16,11,9,10,13.0

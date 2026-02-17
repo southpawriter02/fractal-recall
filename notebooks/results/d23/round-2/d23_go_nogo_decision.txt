@@ -1,0 +1,19 @@
+D-23 GO/NO-GO DECISION REPORT
+==========================================================================================
+Model: v1.5
+Date: 2026-02-17 03:16
+Bonferroni-adjusted α: 0.0167
+
+[1] EXECUTION: PASS — Overflow: 0/1266 chunks (0.00%). Threshold: <5%.
+[2] IMPROVEMENT OVER D-21: PASS — 3/4 metrics have positive mean delta. Threshold: ≥3.
+[3] IMPROVEMENT OVER D-22: PASS — 2/4 metrics have positive mean delta. Threshold: ≥2.
+[4] STATISTICAL SIGNIFICANCE: PASS — 3/4 metrics significant at α=0.0167 for ML vs BL. Threshold: ≥2.
+[5] MARGINAL VALUE: PASS — 1/4 metrics show >5% gain over single-layer. Threshold: ≥1.
+[6] NO CATASTROPHIC DEGRADATION: FAIL — 53/108 queries degraded (49.1%). Threshold: <25%.
+[7] AUTHORITY/TEMPORAL BENEFIT: PASS — Authority > Factual: False. Temporal > Factual: True. Threshold: at least one true.
+
+==========================================================================================
+SUMMARY: 6/7 criteria passed
+MANDATORY (criteria 2+4): MET
+DECISION: GO
+RATIONALE: GO: Multi-layer enrichment is validated. Proceed to D-24 (Layer Ablation Study).
